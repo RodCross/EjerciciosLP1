@@ -48,14 +48,10 @@ int main() {
             }
             cicloAnt = ciclo;
 
-            // lectura del curso
-            while(archDatos.peek() == ' ') {
-                archDatos.get();
-            }
-            // ahora estamos al inicio del código del curso
-            // se imprime carácter por carácter
-            while(archDatos.peek() != ' ') {
-                c = archDatos.get();
+            // impresión del código del curso, carácter por carácter
+            archDatos >> c;
+            archDatos.unget();
+            while((c = archDatos.get()) != ' ') {
                 archRep << c;
             }
 
