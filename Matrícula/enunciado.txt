@@ -1,0 +1,49 @@
+Matrícula
+
+Durante los últimos años, la universidad ha tenido diferentes formatos
+para manejar la información de los cursos en los que se han matriculado
+los alumnos.
+
+Se han observado las siguientes características en todos los
+diferentes formatos de matrícula:
+
+- Los datos de cada alumno están separados por un cambio de línea.
+
+- Los datos de los cursos que llevó en el ciclo respectivo siempre
+  muestran el código del ciclo como primer dato, luego el código del curso.
+
+- Los datos que le siguen al código del curso pueden estar en distinto orden.
+  Para este caso, estos datos serán el número de créditos y las veces que
+  llevaron el curso.
+
+20152014 2018-2 IEE240 5.0 1 2018-2 INF248 5.0 1 2018-2 INF291 3.5 2 2019-1
+20176399 2019-0 FIS106 4.5 1 2019-1 INF144 1 5.0 2019-1 1FIL01 3.0 1
+
+Se le solicita mostrar en pantalla un reporte en el que, para cada alumno,
+se muestre su código de alumno, el ciclo cursado y los cursos en los que
+estuvo matriculado ese ciclo. Se debe considerar que el ciclo se imprime
+solo una vez para todos los cursos correspondientes, según el siguiente ejemplo:
+
+20152014
+2018-2
+------------------------------------
+IEE240         5.00         1
+INF248         5.00         1
+INF291         3.50         2
+
+2019-1
+------------------------------------
+INF263         3.50         2
+
+2019-2
+------------------------------------
+INF263         3.50         3
+IND273         4.00         1
+
+
+20176399
+2019-0
+------------------------------------
+FIS106         4.50         1
+
+2019-1
