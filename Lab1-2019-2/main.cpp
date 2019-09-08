@@ -12,7 +12,7 @@
 #include "FuncAux.h"
 using namespace std;
 
-#define MAX_CAR_LIN 120
+#define MAX_CAR_LIN 110
 #define MAX_CAD_NOM 50
 
 int main() {
@@ -49,7 +49,6 @@ int main() {
         numRet = numDep = 0;
         totalRet = totalDep = 0;
         nuevoCliente = false;
-        bajoMinimo = sobregiro = false;
         
         // encabezado de cuenta
         cout << endl;
@@ -90,22 +89,20 @@ int main() {
         cout << endl;
         
         // encabezado de depósitos y retiros
+        cout << left;
         if(monedaCuenta == 'S') {
-            cout << "FECHA" << setw(25) << "RETIROS SOLES" << setw(25)
-                << "DEPOSITOS SOLES" << setw(25) << "SALDO SOLES"
-                << setw(25) << "OBSERVACION";
+            cout << "FECHA" << setw(13) << " " << setw(23) << "RETIROS SOLES" << setw(29)
+                << "DEPOSITOS SOLES" << setw(26) << "SALDO SOLES" << "OBSERVACION";
         }
         else if(monedaCuenta == '$') {
-            cout << "FECHA" << setw(25) << "RETIROS DOLARES" << setw(25)
-                << "DEPOSITOS DOLARES" << setw(25) << "SALDO DOLARES"
-                << setw(25) << "OBSERVACION";
+            cout << "FECHA" << setw(13) << " " << setw(23) << "RETIROS DOLARES" << setw(29)
+                << "DEPOSITOS DOLARES" << setw(26) << "SALDO DOLARES" << "OBSERVACION";
         }
         else if(monedaCuenta == '&') {
-            cout << "FECHA" << setw(25) << "RETIROS EUROS" << setw(25)
-                << "DEPOSITOS EUROS" << setw(25) << "SALDO EUROS"
-                << setw(25) << "OBSERVACION";
+            cout << "FECHA" << setw(13) << " " << setw(23) << "RETIROS EUROS" << setw(29)
+                << "DEPOSITOS EUROS" << setw(26) << "SALDO EUROS" << "OBSERVACION";
         }
-        cout << endl;
+        cout << right << endl;
         for(int i = 0; i < MAX_CAR_LIN; i++) cout.put('-');
         cout << endl;
         
@@ -165,47 +162,52 @@ int main() {
                         }
                     }
                 }
-                
             }
             
             totalRet += sumaRet;
             totalDep += sumaDep;
             
-            cout << setw(9) << monedaCuenta << setw(9) << sumaRet << setw(15)
-                << monedaCuenta << setw(9) << sumaDep << setw(19) << monedaCuenta
-                << setw(9) << saldoCuenta;
+            cout << setw(9) << monedaCuenta << setw(11) << sumaRet << setw(15)
+                << monedaCuenta << setw(11) << sumaDep << setw(14) << monedaCuenta
+                << setw(11) << saldoCuenta;
             
             // observación
-            if(!sobregiro && !bajoMinimo) {
                 if(saldoCuenta < 0) {
                     sobregiro = true;
                 }
                 else if(saldoCuenta < convertirMoneda('$', monedaCuenta, 1000, valorUsd, valorEur)) {
+                    sobregiro = false;
                     bajoMinimo = true;
                 }
-            }
-            else {
-                if(saldoCuenta > 0) {
+                else {
                     sobregiro = false;
-                    if(saldoCuenta >= convertirMoneda('$', monedaCuenta, 1000, valorUsd, valorEur)) {
-                        bajoMinimo = false;
-                    }
+                    bajoMinimo = false;
                 }
-            }
-            if(sobregiro) cout << setw(20) << "SOBREGIRO";
-            else if(bajoMinimo) cout << setw(20) << "BAJO EL MINIMO";
+            
+            if(sobregiro) cout << setw(24) << "SOBREGIRO";
+            else if(bajoMinimo) cout << setw(29) << "BAJO EL MINIMO";
             cout << endl;
         }
         
-        
-        
+        // impresión del resumen
+        for(int i = 0; i < MAX_CAR_LIN; i++) cout.put('=');
+        cout << endl;
+        cout << "RESUMEN:" << endl;
+        cout << "CANTIDAD TOTAL DE RETIROS:" << setw(8) << numRet << setw(30)
+            << "TOTAL DE RETIROS:" << setw(5) << monedaCuenta << setw(11) << totalRet << endl;
+        cout << "CANTIDAD TOTAL DE DEPOSITOS:" << setw(6) << numDep << setw(30)
+            << "TOTAL DE DEPOSITOS:" << setw(5) << monedaCuenta << setw(11) << totalDep << endl;
+        cout << "SALDO FINAL:" << setw(5) << monedaCuenta << setw(11) << saldoCuenta
+            << setw(36) << "OBSERVACION FINAL:" << setw(4) << " ";
+
+        // observación final
+        if(saldoCuenta < 0) {
+            cout << "CUENTA EN SOBREGIRO";
+        }
+        else if(saldoCuenta < convertirMoneda('$', monedaCuenta, 1000, valorUsd, valorEur)) {
+            cout << "CUENTA BAJO EL MINIMO";
+        }
     }
-    
-    
-    
-    
-    
-    
+
     return 0;
 }
-
