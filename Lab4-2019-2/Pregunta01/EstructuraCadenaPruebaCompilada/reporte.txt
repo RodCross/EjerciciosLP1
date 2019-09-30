@@ -1,0 +1,8 @@
+Cadena s1: 
+Cadena s2: ****************************************************************************************************
+Longitud s2: 100
+Cadena s3: #####
+Cadena s4: DESBORDE
+Cadena s5: #####
+Cadena s1: Juan Perez Lopez
+Cadena s2: Computadora
