@@ -4,7 +4,7 @@
 #include <cstring>
 #include "FuncDeCadenas.h"
 
-void leerDatos(char **&codCur, char **&nomCur, char **&req) {
+void leerDatos(char **&codCur, char **&nomCur, char ***&req) {
     ifstream archCur("cursos.csv", ios::in);
     if (!archCur) {
         cout << "Error: no se pudo abrir el archivo cursos.csv" << endl;
@@ -16,8 +16,8 @@ void leerDatos(char **&codCur, char **&nomCur, char **&req) {
         exit(EXIT_FAILURE);
     }
 
-    int numDat = 0, pos;
-    char *buffCodCur[100], *buffNomCur[100], *buffReq[100];
+    int numDat = 0;
+    char *buffCodCur[100], *buffNomCur[100], **buffReq[100];
     char **codCur2, **req2;
 
     leerRequisitos(archReq, codCur2, req2);
@@ -26,13 +26,7 @@ void leerDatos(char **&codCur, char **&nomCur, char **&req) {
         buffCodCur[numDat] = leerCodigo(archCur);
         if (buffCodCur[numDat] == NULL) break;
         buffNomCur[numDat] = leerCurso(archCur);
-        pos = buscarCurso(buffCodCur[numDat], codCur2);
-        if (pos != -1) {
-            buffReq[numDat] = req2[pos];
-        }
-        else {
-            buffReq[numDat] = NULL;
-        }
+        buffReq[numDat] = leerReq(codCur2, req2, buffCodCur[numDat]);
         numDat++;
     }
 
@@ -41,13 +35,14 @@ void leerDatos(char **&codCur, char **&nomCur, char **&req) {
 
     codCur = new char *[numDat + 1];
     nomCur = new char *[numDat + 1];
-    req = new char *[numDat + 1];
+    req = new char **[numDat + 1];
     for (int i = 0; i < numDat; i++) {
         codCur[i] = buffCodCur[i];
         nomCur[i] = buffNomCur[i];
         req[i] = buffReq[i];
     }
-    codCur[numDat] = nomCur[numDat] = req[numDat] = NULL;
+    codCur[numDat] = nomCur[numDat] = NULL;
+    req[numDat] = NULL;
 }
 
 char *leerRequisitos(ifstream &arch, char **&codCur2, char **&req2) {
@@ -70,14 +65,14 @@ char *leerRequisitos(ifstream &arch, char **&codCur2, char **&req2) {
     codCur2[numDat] = req2[numDat] = NULL;
 }
 
-void ordenarDatos(char **codCur, char **nomCur, char **req) {
+void ordenarDatos(char **codCur, char **nomCur, char ***req) {
     int nd;
 
     for (nd = 0; codCur[nd]; nd++);
     ordenarQS(codCur, nomCur, req, 0, nd - 1);
 }
 
-void imprimirDatos(char **codCur, char **nomCur, char **req) {
+void imprimirDatos(char **codCur, char **nomCur, char ***req) {
     ofstream archRep("reporte.txt", ios::out);
     if (!archRep) {
         cout << "Error: no se pudo abrir el archivo reporte.txt" << endl;
@@ -87,9 +82,7 @@ void imprimirDatos(char **codCur, char **nomCur, char **req) {
     for (int i = 0; codCur[i]; i++) {
         archRep << right << setw(4) << i + 1 << ") " << left << setw(10) << codCur[i];
         archRep << setw(60) << nomCur[i];
-        if (req[i] != NULL) {
-            archRep << setw(10) << req[i];
-        }
+        imprimirReq(archRep, req[i]);
         archRep << endl;
     }
 }
@@ -121,17 +114,47 @@ char *leerUnicoReq(ifstream &arch) {
     return req; 
 }
 
-int buscarCurso(char *cod, char **arr) {
+char **leerReq(char **codCur2, char **req2, char *cod) {
+    char **req = NULL, *codReq;
+    int tamReq = 0, numReq = 0;
     int p = 0;
 
     while (1) {
-        if (arr[p] == NULL) return -1;
-        if (strcmp(arr[p], cod) == 0) return p;
-        p++;
+        if (codCur2[p] == NULL) break;
+        if (strcmp(codCur2[p], cod) == 0) {
+            codReq = new char[7];
+            strcpy(codReq, req2[p]);
+            if (numReq == tamReq) {
+                incrementarEspacios(req, numReq, tamReq);
+            }
+            req[numReq] = NULL;
+            req[numReq - 1] = codReq;
+            numReq++;
+        }
+        p++;        
+    }
+    return req; 
+}
+
+void incrementarEspacios(char **&req, int &numReq, int &tamReq) {
+    char **aux;
+
+    tamReq += INCREMENTO;
+    if (req == NULL) {
+        req = new char *[tamReq];
+        numReq++;
+    }
+    else {
+        aux = new char *[tamReq];
+        for (int i = 0; i < numReq; i++) {
+            aux[i] = req[i];
+        }
+        delete[] req;
+        req = aux;
     }
 }
 
-void ordenarQS(char **codCur, char **nomCur, char **req, int izq, int der) {
+void ordenarQS(char **codCur, char **nomCur, char ***req, int izq, int der) {
     int limite;
 
     if (izq >= der) return;
@@ -149,18 +172,24 @@ void ordenarQS(char **codCur, char **nomCur, char **req, int izq, int der) {
     ordenarQS(codCur, nomCur, req, limite + 1, der);
 }
 
-void cambiar(char **codCur, char **nomCur, char **req, int i, int j) {
-    char *aux;
+void cambiar(char **codCur, char **nomCur, char ***req, int i, int j) {
+    char *aux1, **aux2;
 
-    aux = codCur[i];
+    aux1 = codCur[i];
     codCur[i] = codCur[j];
-    codCur[j] = aux;
+    codCur[j] = aux1;
 
-    aux = nomCur[i];
+    aux1 = nomCur[i];
     nomCur[i] = nomCur[j];
-    nomCur[j] = aux;
+    nomCur[j] = aux1;
 
-    aux = req[i];
+    aux2 = req[i];
     req[i] = req[j];
-    req[j] = aux;
+    req[j] = aux2;
+}
+
+void imprimirReq(ofstream &archRep, char **req) {
+    for (int i = 0; req[i]; i++) {
+        archRep << setw(10) << req[i];
+    }
 }
