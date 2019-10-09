@@ -1,0 +1,444 @@
+                 CURSOS EN LOS QUE SE PUEDE MATRICULAR UN ALUMNO
+================================================================================
+Codigo del alumno: 20149925
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   INF377          Sistemas de Informacion Gerencial
+ 2.-   INF388          Temas avanzados en Ing. Computadora 01
+ 3.-   INF617          Gestion de Proyectos de Software
+ 4.-   IND251          Gestion y Direccion de Empresas
+ 5.-   EST218          Estadistica para Ingenieria
+ 6.-   1FIS07          Laboratorio de fisica 3
+ 7.-   1INF01          Fundamentos de programacion
+ 8.-   INF370          Calidad de Software
+ 9.-   INF234          Modelos y Simulacion Empresarial
+10.-   IND290          Seguridad Integral
+11.-   INF282          Lenguaje de Programacion 2
+12.-   INF342          Seminario de Informatica
+13.-   INF353          Administracion de Sistemas Operativos
+14.-   1INF04          Arquitectura de Sistemas de Informacion Empresarial
+15.-   1MAT09          Calculo aplicado
+16.-   INF391          Proyecto de Tesis 1
+17.-   INF369          Seguridad de Informacion
+18.-   INF295          Planeamiento Estrategico en Informatica
+19.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+20.-   INF357          Inteligencia de Negocios
+21.-   1INF02          Aprendizaje de Maquina
+22.-   INF389          Temas avanzados en Computacion
+23.-   INF355          Seguridad Computacional
+================================================================================
+Codigo del alumno: 20153693
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   1MAT04          Algebra matricial y geometria analitica
+ 2.-   INF309          Desarrollo de Videojuegos
+ 3.-   IND251          Gestion y Direccion de Empresas
+ 4.-   1QUI01          Quimica 1
+ 5.-   DER349          Derecho para Ingenieros Informaticos
+ 6.-   TEL201          Teoria de Comunicaciones
+ 7.-   MAT237          Calculo Numerico
+ 8.-   INF234          Modelos y Simulacion Empresarial
+ 9.-   IND290          Seguridad Integral
+10.-   INF263          Algoritmia
+11.-   IND275          Control de Gestion Industrial
+12.-   INF245          Ingenieria de Software
+13.-   INF369          Seguridad de Informacion
+14.-   CDR121          Ciencia etica y cristianismo
+15.-   INF310          Teoria de grafos
+16.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+17.-   1LIN15          Comunicacion academica
+18.-   1FIL01          Ciencia y filosofia
+19.-   IND273          Investigacion Operativa 1
+20.-   1FIS03          Laboratorio de fisica 1
+21.-   ING220          etica Profesional
+22.-   INF378          Sistemas Expertos
+23.-   INF248          Sistemas de Informacion 1
+24.-   INF372          Graficos en Computacion
+================================================================================
+Codigo del alumno: 20123463
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   IND231          Ingenieria Economica
+ 2.-   IND251          Gestion y Direccion de Empresas
+ 3.-   1FIS05          Laboratorio de fisica 2
+ 4.-   1QUI01          Quimica 1
+ 5.-   DER349          Derecho para Ingenieros Informaticos
+ 6.-   EST218          Estadistica para Ingenieria
+ 7.-   1INF01          Fundamentos de programacion
+ 8.-   1FIS01          Fundamentos de fisica
+ 9.-   IND290          Seguridad Integral
+10.-   1MAT06          Calculo diferencial
+11.-   1MAT09          Calculo aplicado
+12.-   INF369          Seguridad de Informacion
+13.-   INF134          Estructuras discretas
+14.-   INF246          Bases de datos
+15.-   CDR121          Ciencia etica y cristianismo
+16.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+17.-   1FIS03          Laboratorio de fisica 1
+18.-   ING220          etica Profesional
+19.-   CDR123          Pensamiento cristiano y realidad social
+20.-   1TE001          Ser humano y cristianismo en el siglo XXI
+================================================================================
+Codigo del alumno: 20080667
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   IND231          Ingenieria Economica
+ 2.-   IND251          Gestion y Direccion de Empresas
+ 3.-   DER349          Derecho para Ingenieros Informaticos
+ 4.-   1MAT05          Fundamentos de calculo
+ 5.-   IND290          Seguridad Integral
+ 6.-   1ING02          Dibujo en ingenieria
+ 7.-   INF369          Seguridad de Informacion
+ 8.-   INF246          Bases de datos
+ 9.-   CDR121          Ciencia etica y cristianismo
+10.-   1MAT07          Calculo integral
+11.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+12.-   INF144          Tecnicas de programacion
+13.-   1FIS03          Laboratorio de fisica 1
+14.-   1QUI02          Laboratorio de quimica 1
+15.-   ING220          etica Profesional
+16.-   1TE001          Ser humano y cristianismo en el siglo XXI
+================================================================================
+Codigo del alumno: 20083333
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   IND231          Ingenieria Economica
+ 2.-   1FIS05          Laboratorio de fisica 2
+ 3.-   DER349          Derecho para Ingenieros Informaticos
+ 4.-   TEL201          Teoria de Comunicaciones
+ 5.-   1INF01          Fundamentos de programacion
+ 6.-   MAT237          Calculo Numerico
+ 7.-   IND290          Seguridad Integral
+ 8.-   INF008          Practica Supervisada Preprofesional
+ 9.-   INF282          Lenguaje de Programacion 2
+10.-   1ING02          Dibujo en ingenieria
+11.-   INF250          Sistemas de Informacion 2
+12.-   1MAT06          Calculo diferencial
+13.-   INF369          Seguridad de Informacion
+14.-   INF134          Estructuras discretas
+15.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+16.-   1LIN15          Comunicacion academica
+17.-   ING220          etica Profesional
+18.-   INF265          Aplicaciones de Ciencias de la Computacion
+19.-   1TE001          Ser humano y cristianismo en el siglo XXI
+================================================================================
+Codigo del alumno: 20161581
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   INF309          Desarrollo de Videojuegos
+ 2.-   IND251          Gestion y Direccion de Empresas
+ 3.-   1FIS05          Laboratorio de fisica 2
+ 4.-   1QUI01          Quimica 1
+ 5.-   DER349          Derecho para Ingenieros Informaticos
+ 6.-   TEL201          Teoria de Comunicaciones
+ 7.-   1FIS07          Laboratorio de fisica 3
+ 8.-   1LIN16          Trabajo academico
+ 9.-   INF234          Modelos y Simulacion Empresarial
+10.-   IND290          Seguridad Integral
+11.-   INF008          Practica Supervisada Preprofesional
+12.-   INF371          Inteligencia Artificial
+13.-   IND275          Control de Gestion Industrial
+14.-   INF245          Ingenieria de Software
+15.-   1MAT06          Calculo diferencial
+16.-   INF369          Seguridad de Informacion
+17.-   CDR121          Ciencia etica y cristianismo
+18.-   INF310          Teoria de grafos
+19.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+20.-   IND273          Investigacion Operativa 1
+21.-   ING220          etica Profesional
+22.-   INF239          Sistemas Operativos
+23.-   INF378          Sistemas Expertos
+24.-   INF265          Aplicaciones de Ciencias de la Computacion
+25.-   INF372          Graficos en Computacion
+26.-   1TE001          Ser humano y cristianismo en el siglo XXI
+================================================================================
+Codigo del alumno: 20097877
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   IEE240          Organizacion y Arquitectura de Computadoras
+ 2.-   DER349          Derecho para Ingenieros Informaticos
+ 3.-   INF291          Metodos y Procedimientos
+ 4.-   MAT237          Calculo Numerico
+ 5.-   INF234          Modelos y Simulacion Empresarial
+ 6.-   IND290          Seguridad Integral
+ 7.-   INF008          Practica Supervisada Preprofesional
+ 8.-   INF282          Lenguaje de Programacion 2
+ 9.-   IND275          Control de Gestion Industrial
+10.-   INF250          Sistemas de Informacion 2
+11.-   1MAT06          Calculo diferencial
+12.-   INF369          Seguridad de Informacion
+13.-   INF134          Estructuras discretas
+14.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+15.-   1LIN15          Comunicacion academica
+16.-   1FIL01          Ciencia y filosofia
+17.-   1FIS03          Laboratorio de fisica 1
+18.-   ING220          etica Profesional
+19.-   INF265          Aplicaciones de Ciencias de la Computacion
+20.-   1MAT08          Calculo en varias variables
+================================================================================
+Codigo del alumno: 20184878
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   IND231          Ingenieria Economica
+ 2.-   IND251          Gestion y Direccion de Empresas
+ 3.-   1QUI01          Quimica 1
+ 4.-   DER349          Derecho para Ingenieros Informaticos
+ 5.-   IND290          Seguridad Integral
+ 6.-   1FIS06          Fisica  3
+ 7.-   1MAT09          Calculo aplicado
+ 8.-   INF369          Seguridad de Informacion
+ 9.-   INF246          Bases de datos
+10.-   1FIS02          Fisica  1
+11.-   CDR121          Ciencia etica y cristianismo
+12.-   1MAT07          Calculo integral
+13.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+14.-   ING220          etica Profesional
+================================================================================
+Codigo del alumno: 20171919
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   INF309          Desarrollo de Videojuegos
+ 2.-   IND251          Gestion y Direccion de Empresas
+ 3.-   DER349          Derecho para Ingenieros Informaticos
+ 4.-   TEL201          Teoria de Comunicaciones
+ 5.-   1FIS07          Laboratorio de fisica 3
+ 6.-   MAT237          Calculo Numerico
+ 7.-   INF234          Modelos y Simulacion Empresarial
+ 8.-   IND290          Seguridad Integral
+ 9.-   INF008          Practica Supervisada Preprofesional
+10.-   INF371          Inteligencia Artificial
+11.-   1INF06          Estructura de datos y programacion metodica
+12.-   IND275          Control de Gestion Industrial
+13.-   INF245          Ingenieria de Software
+14.-   1MAT06          Calculo diferencial
+15.-   INF369          Seguridad de Informacion
+16.-   CDR121          Ciencia etica y cristianismo
+17.-   INF310          Teoria de grafos
+18.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+19.-   1LIN15          Comunicacion academica
+20.-   1INF02          Aprendizaje de Maquina
+21.-   IND273          Investigacion Operativa 1
+22.-   1QUI02          Laboratorio de quimica 1
+23.-   ING220          etica Profesional
+24.-   INF239          Sistemas Operativos
+25.-   INF378          Sistemas Expertos
+26.-   CDR123          Pensamiento cristiano y realidad social
+27.-   INF372          Graficos en Computacion
+================================================================================
+Codigo del alumno: 20170596
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   1MAT04          Algebra matricial y geometria analitica
+ 2.-   IND231          Ingenieria Economica
+ 3.-   IND251          Gestion y Direccion de Empresas
+ 4.-   DER349          Derecho para Ingenieros Informaticos
+ 5.-   EST218          Estadistica para Ingenieria
+ 6.-   1FIS07          Laboratorio de fisica 3
+ 7.-   1FIS01          Fundamentos de fisica
+ 8.-   IND290          Seguridad Integral
+ 9.-   INF369          Seguridad de Informacion
+10.-   INF246          Bases de datos
+11.-   CDR121          Ciencia etica y cristianismo
+12.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+13.-   INF144          Tecnicas de programacion
+14.-   1FIS03          Laboratorio de fisica 1
+15.-   ING220          etica Profesional
+16.-   CDR123          Pensamiento cristiano y realidad social
+17.-   1TE001          Ser humano y cristianismo en el siglo XXI
+================================================================================
+Codigo del alumno: 20123124
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   IND231          Ingenieria Economica
+ 2.-   IND251          Gestion y Direccion de Empresas
+ 3.-   DER349          Derecho para Ingenieros Informaticos
+ 4.-   1INF01          Fundamentos de programacion
+ 5.-   1MAT05          Fundamentos de calculo
+ 6.-   IND290          Seguridad Integral
+ 7.-   INF369          Seguridad de Informacion
+ 8.-   INF246          Bases de datos
+ 9.-   CDR121          Ciencia etica y cristianismo
+10.-   1MAT07          Calculo integral
+11.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+12.-   1FIL01          Ciencia y filosofia
+13.-   ING220          etica Profesional
+14.-   CDR123          Pensamiento cristiano y realidad social
+15.-   1TE001          Ser humano y cristianismo en el siglo XXI
+================================================================================
+Codigo del alumno: 20160913
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   IND231          Ingenieria Economica
+ 2.-   IEE229          Electronica Digital
+ 3.-   IND251          Gestion y Direccion de Empresas
+ 4.-   DER349          Derecho para Ingenieros Informaticos
+ 5.-   MAT237          Calculo Numerico
+ 6.-   1LIN16          Trabajo academico
+ 7.-   IND290          Seguridad Integral
+ 8.-   INF263          Algoritmia
+ 9.-   1MAT06          Calculo diferencial
+10.-   INF369          Seguridad de Informacion
+11.-   INF246          Bases de datos
+12.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+13.-   1FIL01          Ciencia y filosofia
+14.-   1QUI02          Laboratorio de quimica 1
+15.-   ING220          etica Profesional
+16.-   1TE001          Ser humano y cristianismo en el siglo XXI
+================================================================================
+Codigo del alumno: 20164217
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   IND231          Ingenieria Economica
+ 2.-   IEE229          Electronica Digital
+ 3.-   IND251          Gestion y Direccion de Empresas
+ 4.-   DER349          Derecho para Ingenieros Informaticos
+ 5.-   1MAT05          Fundamentos de calculo
+ 6.-   IND290          Seguridad Integral
+ 7.-   INF369          Seguridad de Informacion
+ 8.-   INF246          Bases de datos
+ 9.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+10.-   INF144          Tecnicas de programacion
+11.-   1LIN15          Comunicacion academica
+12.-   1FIS03          Laboratorio de fisica 1
+13.-   ING220          etica Profesional
+14.-   1TE001          Ser humano y cristianismo en el siglo XXI
+================================================================================
+Codigo del alumno: 20132805
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   IND231          Ingenieria Economica
+ 2.-   IND251          Gestion y Direccion de Empresas
+ 3.-   IEE240          Organizacion y Arquitectura de Computadoras
+ 4.-   1QUI01          Quimica 1
+ 5.-   DER349          Derecho para Ingenieros Informaticos
+ 6.-   MAT237          Calculo Numerico
+ 7.-   IND290          Seguridad Integral
+ 8.-   INF263          Algoritmia
+ 9.-   INF369          Seguridad de Informacion
+10.-   INF246          Bases de datos
+11.-   1MAT07          Calculo integral
+12.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+13.-   1LIN15          Comunicacion academica
+14.-   ING220          etica Profesional
+15.-   1TE001          Ser humano y cristianismo en el siglo XXI
+================================================================================
+Codigo del alumno: 20185774
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   IND231          Ingenieria Economica
+ 2.-   IND251          Gestion y Direccion de Empresas
+ 3.-   DER349          Derecho para Ingenieros Informaticos
+ 4.-   1INF01          Fundamentos de programacion
+ 5.-   1MAT05          Fundamentos de calculo
+ 6.-   IND290          Seguridad Integral
+ 7.-   1ING02          Dibujo en ingenieria
+ 8.-   INF246          Bases de datos
+ 9.-   CDR121          Ciencia etica y cristianismo
+10.-   1FIL01          Ciencia y filosofia
+11.-   ING220          etica Profesional
+12.-   CDR123          Pensamiento cristiano y realidad social
+13.-   1TE001          Ser humano y cristianismo en el siglo XXI
+================================================================================
+Codigo del alumno: 20152740
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   IND231          Ingenieria Economica
+ 2.-   IND251          Gestion y Direccion de Empresas
+ 3.-   DER349          Derecho para Ingenieros Informaticos
+ 4.-   1INF01          Fundamentos de programacion
+ 5.-   1MAT05          Fundamentos de calculo
+ 6.-   IND290          Seguridad Integral
+ 7.-   1ING02          Dibujo en ingenieria
+ 8.-   INF369          Seguridad de Informacion
+ 9.-   INF246          Bases de datos
+10.-   CDR121          Ciencia etica y cristianismo
+11.-   1MAT07          Calculo integral
+12.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+13.-   1LIN15          Comunicacion academica
+14.-   1FIL01          Ciencia y filosofia
+15.-   1FIS03          Laboratorio de fisica 1
+16.-   ING220          etica Profesional
+17.-   CDR123          Pensamiento cristiano y realidad social
+18.-   1TE001          Ser humano y cristianismo en el siglo XXI
+================================================================================
+Codigo del alumno: 20182161
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   IND231          Ingenieria Economica
+ 2.-   IEE240          Organizacion y Arquitectura de Computadoras
+ 3.-   1QUI01          Quimica 1
+ 4.-   DER349          Derecho para Ingenieros Informaticos
+ 5.-   INF291          Metodos y Procedimientos
+ 6.-   1MAT05          Fundamentos de calculo
+ 7.-   MAT237          Calculo Numerico
+ 8.-   IND290          Seguridad Integral
+ 9.-   1ING02          Dibujo en ingenieria
+10.-   INF263          Algoritmia
+11.-   INF369          Seguridad de Informacion
+12.-   INF246          Bases de datos
+13.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+14.-   1LIN15          Comunicacion academica
+15.-   1FIL01          Ciencia y filosofia
+16.-   ING220          etica Profesional
+17.-   CDR123          Pensamiento cristiano y realidad social
+18.-   1MAT08          Calculo en varias variables
+19.-   1TE001          Ser humano y cristianismo en el siglo XXI
+================================================================================
+Codigo del alumno: 20003541
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   1MAT04          Algebra matricial y geometria analitica
+ 2.-   IND231          Ingenieria Economica
+ 3.-   IND251          Gestion y Direccion de Empresas
+ 4.-   DER349          Derecho para Ingenieros Informaticos
+ 5.-   1INF01          Fundamentos de programacion
+ 6.-   IND290          Seguridad Integral
+ 7.-   INF369          Seguridad de Informacion
+ 8.-   INF246          Bases de datos
+ 9.-   CDR121          Ciencia etica y cristianismo
+10.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+11.-   1LIN15          Comunicacion academica
+12.-   1FIL01          Ciencia y filosofia
+13.-   1FIS03          Laboratorio de fisica 1
+14.-   ING220          etica Profesional
+15.-   CDR123          Pensamiento cristiano y realidad social
+16.-   1TE001          Ser humano y cristianismo en el siglo XXI
+================================================================================
+Codigo del alumno: 20119778
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE PUEDE MATRICULARSE:
+No.   Codigo           Curso
+ 1.-   IND231          Ingenieria Economica
+ 2.-   IND251          Gestion y Direccion de Empresas
+ 3.-   DER349          Derecho para Ingenieros Informaticos
+ 4.-   1MAT05          Fundamentos de calculo
+ 5.-   1FIS01          Fundamentos de fisica
+ 6.-   1LIN16          Trabajo academico
+ 7.-   IND290          Seguridad Integral
+ 8.-   INF369          Seguridad de Informacion
+ 9.-   INF246          Bases de datos
+10.-   CDR121          Ciencia etica y cristianismo
+11.-   INF340          Auditoria de Sistemas y Tecnologias de Informacion
+12.-   INF144          Tecnicas de programacion
+13.-   1FIS03          Laboratorio de fisica 1
+14.-   ING220          etica Profesional
+15.-   CDR123          Pensamiento cristiano y realidad social
+16.-   1TE001          Ser humano y cristianismo en el siglo XXI
