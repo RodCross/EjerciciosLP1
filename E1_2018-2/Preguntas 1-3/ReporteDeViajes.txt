@@ -1,0 +1,652 @@
+                                          Lista de pasajeros
+====================================================================================================
+Vehiculo No. 1
+Placa:  P9A-528
+Chofer: CASTILLO/MEJIA/GUSTAVO ALONSO
+Ruta: Ica - Arequipa - Moquegua - Tacna
+Pasajeros:
+No.      DNI              Nombre
+ 1    37787771            ACUNA/AYLLON/BLANCA LUZ                 Tacna               
+ 2    22344625            CUBA/POMAJAMBO/VICTORIA FIORELLA        Ica                 
+ 3    69975105            VALDERRAMA/MENDOZA/LUIS ADOLFO          Arequipa            
+ 4    77642521            SORIA/CASTILLO/LUIS GUSTAVO             Ica                 
+ 5    71984468            IPARRAGUIRRE/VILLEGAS/NICOLAS EDILBERTO Tacna               
+ 6    33397650            RONDON/EGUSQUIZA/CARMELA VALENTINA      Ica                 
+ 7    79140840            TORREALBA/ARCA/VICTORIA GLENDA          Tacna               
+ 8    78078115            TSUKAZAN/AMEZQUITA/DELIA                Tacna               
+ 9    48467976            BENITES/SANCHEZ/MARGOT DELICIA          Moquegua            
+10    64394265            SALAZAR/GONZALES/DAVID RAFAEL           Arequipa            
+----------------------------------------------------------------------------------------------------
+Vehiculo No. 2
+Placa:  H9R-580
+Chofer: SAENZ/ARANDA/WILMER
+Ruta: Junin - Pasco - Pucallpa
+Pasajeros:
+No.      DNI              Nombre
+ 1    67592501            MORI/SUAREZ/EDILBERTO JESUS             Junin               
+ 2    19515050            ARCA/AQUINO/DELICIA                     Pasco               
+ 3    32093968            MARTEL/MERCADO/TERESA TERESA            Pucallpa            
+ 4    27530155            LANDA/CABRERA/JAVIER EDGARD             Junin               
+ 5    57263719            PRADO/TORREALBA/CARMEN JANET            Pasco               
+ 6    43877279            RARAZ/SUCHERO/ADOLFO                    Junin               
+ 7    94080926            SORIA/CRUZ/MADELEINE                    Pasco               
+ 8    86241107            SANCHEZ/EPIQUEN/EDGAR MELVIN            Junin               
+ 9    45877001            SORIA/VILLA/HENRRY                      Pasco               
+10    97403853            PISCOYA/MALCA/MARIA MONICA              Pasco               
+11    44229880            PALOMARES/BARRIOS/EDWARD CESAR          Junin               
+12    88995291            PEREZ/TORRES/MILAGROS REBECA            Pasco               
+13    42928709            HERNANDEZ/MALCA/VIRGINIA                Junin               
+14    86828079            PRECIADO/ADAMS/ERIKA DELIA              Pucallpa            
+15    43043986            LOZADA/VALVERDE/MOISES HENRRY           Pucallpa            
+16    44248752            HENRIQUEZ/LEYVA/FERNANDO WALTER         Pasco               
+17    20337192            HERNANDEZ/CERNA/INES                    Pucallpa            
+18    61270996            CHUMPITAZ/IBEROS/RONAL                  Junin               
+19    69158037            PEREZ/FARFAN/RICHARD SANDRO             Pasco               
+20    47944203            PAIRAZAMAN/ALAMO/MOISES MIGUEL          Junin               
+21    23086600            ARCA/AMEZQUITA/EDRIC RONALD             Junin               
+22    84551054            PAREDES/PATINO/CHRISTIAN                Pasco               
+23    53054602            HIJAR/YEP/WILLIAMS CHRISTIAN            Pasco               
+24    17711594            MALDONADO/FLORIAN/JOHANA                Junin               
+25    35039741            ACUNA/YINO/ROCIO YOLANDA                Junin               
+----------------------------------------------------------------------------------------------------
+Vehiculo No. 3
+Placa:  V1S-429
+Chofer: CALIXTO/TORRES/MIGUEL
+Ruta: Huanuco - Pucallpa - Yurimaguas - Iquitos
+Pasajeros:
+No.      DNI              Nombre
+ 1    25669913            VARGAS/GUEVARA/HUMBERTO ALBERTO         Iquitos             
+ 2    99995135            ARCA/LEIVA/DELICIA ROSA                 Iquitos             
+ 3    36931603            ORTIZ/GUEVARA/YLIANA FLOR               Huanuco             
+ 4    73786035            ORTIZ/EPIQUEN/HENRY ISRAEL              Iquitos             
+ 5    67418025            MOSCOSO/SUELDO/MARINA                   Iquitos             
+ 6    35584593            LAM/VIZCARDO/MILAGROS YVONNE            Huanuco             
+ 7    32821689            ZAVALETA/EPIQUEN/CARMEN ZKENIA          Iquitos             
+ 8    45783712            POZO/CHUNG/RAFAEL                       Yurimaguas          
+ 9    48184351            LOPEZ/JAUREGUI/ROLANDO                  Yurimaguas          
+10    17913944            PALOMARES/SANTISTEBAN/HENRRY            Huanuco             
+11    46462527            LOYOLA/MORI/NICOLAS FERNANDO            Yurimaguas          
+12    40348917            VEGA/TSUKAZAN/VALENTINA                 Huanuco             
+13    25171011            CRUZ/JUGO/SANDRO FAUSTO                 Yurimaguas          
+14    45828535            SEDANO/MERCADO/FIORELLA GLORIA          Iquitos             
+15    12663268            BARRERA/FLORES/ENRIQUE                  Iquitos             
+----------------------------------------------------------------------------------------------------
+Vehiculo No. 4
+Placa:  Z0V-608
+Chofer: ZARATE/URBINA/DELIA
+Ruta: Huaraz - Trujillo - Cajamarca - Chachapoyas - Tarapoto
+Pasajeros:
+No.      DNI              Nombre
+ 1    90687076            MERCADO/CARO/OFELIA CARMEN              Trujillo            
+ 2    91932848            MEJIA/ZEGARRA/GIOVANA                   Trujillo            
+ 3    87503190            DEL CASTILLO/CHUNG/FELICITA ERIKA       Cajamarca           
+ 4    88830718            SHIRAKAWA/SAONA/VICTORIA MILAGROS       Trujillo            
+ 5    85152986            MUNOZ/VERGEL/EDGAR                      Tarapoto            
+ 6    19580504            MONTERO/BOLANOS/OFELIA BEATRIZ          Chachapoyas         
+ 7    57690875            NORABUENA/VILLEGAS/ARTURO RAFAEL        Huaraz              
+ 8    43053402            BENAVENTE/ZIMIC/MADELEINE ZKENIA        Trujillo            
+ 9    89298238            ALFARO/PRECIADO/JOHNNY                  Trujillo            
+10    62566305            ROMERO/ALFARO/MONICA JOHANA             Huaraz              
+11    22777006            ASMAD/PINTO/MARIA LORENA                Chachapoyas         
+12    95751208            CORONEL/ZEGARRA/FIORELLA                Trujillo            
+13    96258632            FLORENCIO/GARCIA/WALTER                 Tarapoto            
+14    95161027            FALCON/POZO/WALTER                      Tarapoto            
+15    15561764            VILLEGAS/CASTRO/ALONSO                  Chachapoyas         
+16    19829266            TOMASICHE/MEJIA/MELVIN                  Cajamarca           
+17    55552996            SUCHERO/PRECIADO/MILAGROS ERICKA        Huaraz              
+18    44679500            CORREA/ARCA/HELI                        Trujillo            
+19    85871751            AYALA/LAURA/JANET                       Chachapoyas         
+20    71463316            PRADO/CALIXTO/KARIN                     Cajamarca           
+21    24995742            MEREL/TAVERA/WALTER                     Huaraz              
+22    42172802            PRECIADO/RIVERO/JOHANA                  Trujillo            
+----------------------------------------------------------------------------------------------------
+Vehiculo No. 5
+Placa:  Q8B-464
+Chofer: ZAMORA/CABRERA/CARMEN
+Ruta: Huaraz - Trujillo - Chiclayo - Piura - Sullana - Tumbes
+Pasajeros:
+No.      DNI              Nombre
+ 1    39598526            GONZALES/AGUIRRE/EMILIO EMIGDIO         Chiclayo            
+ 2    60359888            CABELLO/LAM/ALFONSO WALDEMAR            Sullana             
+ 3    84857574            ZARATE/ACUNA/MILENA CINTHIA             Sullana             
+ 4    59297012            AYALA/ZEVALLOS/JOHAN ENRIQUE            Piura               
+ 5    20864087            ZEGARRA/CASANOVA/ESTEFANIA              Sullana             
+ 6    84165595            SALAMANCA/GAVIDIA/ALEX                  Piura               
+ 7    29847168            ALDAVE/ZEVALLOS/ROSARIO                 Piura               
+ 8    83236386            RIVERO/CORRALES/JUAN FERNANDO           Chiclayo            
+ 9    76388967            GONZALES/QUIO/ISABEL                    Piura               
+10    71378466            MIYAKE/CARO/HENRRY EDGAR                Chiclayo            
+11    50365593            SUAREZ/BRAVO/MARIELLA TATIANA           Tumbes              
+12    35565959            VILCARA/RODRIGUEZ/ANNIE                 Sullana             
+13    80048864            JUSTINO/CASTILLO/SANDRO CHRISTIAN       Sullana             
+14    77191257            CORRALES/ZUNIGA/JENNY                   Tumbes              
+15    16151792            DURAND/CASTRO/FLOR MARTHA               Tumbes              
+16    90237332            ESPINOZA/CASTRO/YDALI GIOVANA           Chiclayo            
+17    73185299            CORTES/LANDA/SURAMI                     Chiclayo            
+18    13245501            ESCALANTE/YINO/EDWARD GONZALO           Piura               
+19    73914283            CASANOVA/CARBAJAL/RICARDO ISRAEL        Tumbes              
+20    23928045            ARCA/VILCA/RONALD                       Tumbes              
+21    85949265            LEYVA/GONZALES/CINTHIA                  Piura               
+22    69324480            FLORES/IPARRAGUIRRE/HENRRY RICARDO      Sullana             
+23    32565207            RIVERA/ZARATE/MARINA                    Tumbes              
+24    29337157            VIZCARDO/YEP/GUIDA YOLANDA              Piura               
+25    98589725            FORZANI/ANTEZANO/OSCAR JOSE             Tumbes              
+----------------------------------------------------------------------------------------------------
+Vehiculo No. 6
+Placa:  M3H-482
+Chofer: CABRERA/MORENO/DELIA ESTEFANIA
+Ruta: Huacho - Pasco
+Pasajeros:
+No.      DNI              Nombre
+ 1    39082665            GARCIA/ASTETE/VICTOR EDGAR              Huacho              
+ 2    31193794            GARCIA/YINO/AMERICO WALDEMAR            Huacho              
+ 3    60574154            LOZADA/GONZALES/JAIME                   Huacho              
+ 4    26233063            TSUKAZAN/AYALA/MARINA MAGDA             Huacho              
+ 5    59162728            HUAYANAY/CORTES/GLENDA MARINA           Huacho              
+ 6    32395559            SHIRAKAWA/ORTEGA/ANGEL                  Huacho              
+ 7    45132265            DIAZ/ANTEZANO/MAGALI SILVANA            Huacho              
+ 8    47632196            MORALES/VALVERDE/INES MARTHA            Huacho              
+ 9    31419360            LAURA/WONG/MELVIN HENRRY                Huacho              
+10    45749698            CORREA/VIZCARDO/MIGUEL                  Huacho              
+11    53693075            HENRIQUEZ/PORTUGAL/ALEX                 Huacho              
+12    19477308            GAVIDIA/MENDOZA/RONALD JOHNNY           Huacho              
+13    78862029            URBINA/HIJAR/RAFAEL                     Huacho              
+14    24829546            DURAND/MEZA/WALDEMAR EDGARD             Pasco               
+15    63627446            VILLA/SEDANO/MARTIN JUVENAL             Pasco               
+16    73775471            LOZADA/AGUERO/ANTONIO ELOY              Pasco               
+17    66433105            SERRANO/RAMIREZ/ARTURO GUSTAVO          Huacho              
+18    65745002            SINCHE/RIVERO/YVONNE SILVANA            Huacho              
+19    72652460            VALVERDE/MAEIREIZO/MELVIN JAIR          Pasco               
+20    69648154            CAMACHO/PAIRAZAMAN/YDALI LUCERO         Huacho              
+21    41257674            LUNA/VARGAS/WALDEMAR                    Huacho              
+22    80463739            HERNANDEZ/CORRALES/GUILLERMO            Huacho              
+23    94384393            EPIQUEN/YEP/GUIDA VICTORIA              Pasco               
+24    54861496            RIOS/VILCA/SHIRLEY                      Pasco               
+25    47176689            DELGADO/BENITES/JUVENAL                 Pasco               
+----------------------------------------------------------------------------------------------------
+Vehiculo No. 7
+Placa:  G8Y-563
+Chofer: FLORENCIO/POLO/FIORELLA ERIKA
+Ruta: Ayacucho - Abancay
+Pasajeros:
+No.      DNI              Nombre
+ 1    44888415            ARANDA/MINAYA/JANET CINTHIA             Abancay             
+ 2    16552775            YALLICO/PAREDES/LOURDES CARMELA         Abancay             
+ 3    79475585            RETTO/ARCA/ANNIE MAGDA                  Abancay             
+ 4    79420973            AURIS/JOLAY/DIANA                       Abancay             
+ 5    41036366            JUSTINO/LOYOLA/JENNY MAGDA              Abancay             
+ 6    27912250            CUBA/CHUNG/ISRAEL EDILBERTO             Abancay             
+ 7    78757121            ASTETE/SOLIS/FANNY                      Abancay             
+ 8    36380447            RIVERO/RETTO/JESUS                      Abancay             
+ 9    37110873            VERGEL/HIJAR/JESUS                      Abancay             
+10    97704824            MORI/CARO/FREYSA                        Abancay             
+11    79238499            ACUNA/GORDILLO/LORENA SURAMI            Ayacucho            
+12    84847055            SALAZAR/FIGUEROA/EVERT JOHNNY           Ayacucho            
+13    54073409            RAFFO/ARIAS/SURAMI ANNIE                Ayacucho            
+14    23716946            SHIRAKAWA/MIRANDA/MADELEINE             Abancay             
+15    93202947            VILCARA/CORREA/VICTOR                   Abancay             
+16    28014253            GONZALES/ARIAS/HENRY                    Ayacucho            
+17    35956910            VEGA/MUNOZ/GONZALO                      Abancay             
+18    30013565            SUCHERO/EPIQUEN/EDGAR JAVIER            Ayacucho            
+19    38934372            FIGUEROA/COLLADO/EVERT                  Ayacucho            
+20    24833706            HAZA/CABRERA/ALBERTO DENIS              Abancay             
+21    18297138            AYALA/VIZCARDO/EDGAR MANUEL             Abancay             
+22    80294521            CHUMPITAZ/ALCOCER/ANGEL ERICK           Abancay             
+23    65802912            ZAMBRANO/MOSCOSO/OFELIA MARIA           Abancay             
+24    23715594            PAIRAZAMAN/RAFFO/TATIANA DELICIA        Abancay             
+25    66084391            ALFARO/ALFARO/ERICK BRUNO               Abancay             
+26    52478914            FIGUEROA/MEDINA/MADELEINE               Abancay             
+27    30346442            CORTES/CORTEZ/RAUL ALEX                 Abancay             
+28    57054262            MENDOZA/ROMERO/VIRGINIA YDALI           Abancay             
+29    12588249            ZUNIGA/ROSEMBERG/REBECA                 Ayacucho            
+30    20366682            URBINA/MEJIA/MAGDA DIALY                Ayacucho            
+31    40382824            SINCHE/PRECIADO/MARTHA                  Ayacucho            
+32    87252843            SOMA/MIRANDA/ELOISA                     Ayacucho            
+33    84563532            CALDERON/ROSEMBERG/RHONY                Ayacucho            
+----------------------------------------------------------------------------------------------------
+Vehiculo No. 8
+Placa:  W0O-821
+Chofer: CHUNG/ZUNIGA/ZKENIA IRMA
+Ruta: Ayacucho - Abancay - Cuzco - Puno
+Pasajeros:
+No.      DNI              Nombre
+ 1    87334863            URBINA/ANTEZANO/VALENTINA PAULA         Cuzco               
+ 2    79464412            PORTUGAL/RAFFO/ALEXANDER                Puno                
+ 3    94326707            CHANG/SEGURA/ANGEL                      Cuzco               
+ 4    91897732            GAMARRA/ALCOCER/VIRGINIA                Cuzco               
+ 5    31611146            LANDEO/LARRIEGA/MARTIN                  Puno                
+ 6    42157219            LUNA/CUEVA/RICHARD                      Puno                
+ 7    22280452            GONZALES/MALDONADO/ZKENIA ERIKA         Cuzco               
+ 8    15210391            QUIROGA/CASANOVA/BRUNO                  Cuzco               
+ 9    79901434            SALAZAR/FLORENCIO/SANDRO JOHNNY         Cuzco               
+10    36008913            CASTILLO/ZAMORA/VICTOR NESTOR           Puno                
+11    77484838            EPIQUEN/ALAMO/NANCY                     Cuzco               
+12    69639726            ROJAS/PATINO/GONZALO JAIR               Cuzco               
+13    63124303            GAVIDIA/ESCALANTE/EVERT GONZALO         Puno                
+14    87027873            AURIS/SALAZAR/MADELEINE GUIDA           Cuzco               
+15    21814849            MARTEL/ASMAD/BRUNO ROBERTO              Cuzco               
+16    36297392            ZARATE/DEL POZO/HUMBERTO/ANTONIO        Puno                
+17    78755618            DE LA CUBA/JUGO/LUCERO DELICIA          Cuzco               
+18    27777608            HENRIQUEZ/DIAZ/SILVANA DIANA            Puno                
+19    90983614            ESCALANTE/ESPINO/EMIGDIO FRANCISCO      Puno                
+20    21589652            VEGA/SORIA/HENRRY                       Cuzco               
+21    17266507            FLORENCIO/CORONADO/ALONSO               Cuzco               
+22    15988939            RAMIREZ/ASTETE/KARINA ESTEFANIA         Puno                
+23    41722980            CONTRERAS/CHANG/JOHANA CINTHIA          Puno                
+24    76990683            BACA/CAMACHO/MILAGROS NATALIA           Cuzco               
+----------------------------------------------------------------------------------------------------
+Vehiculo No. 9
+Placa:  Q6F-925
+Chofer: JOLAY/CHUMPITAZ/WALTER
+Ruta: Arequipa - Juliaca - Puno
+Pasajeros:
+No.      DNI              Nombre
+ 1    78475257            JAUREGUI/BRAVO/LUZ SOFIA                Juliaca             
+ 2    74067467            YEP/ZAVALETA/ROSARIO MARIBEL            Juliaca             
+ 3    26976877            TORO/DE LA CUBA/DIALY DIANA             Juliaca             
+ 4    95015539            CHANG/SAONA/RONALD                      Arequipa            
+ 5    53166028            CANO/CHUNG/EMILIO NICOLAS               Arequipa            
+ 6    93845419            QUIO/GAVIDIA/DIALY FELICITA             Juliaca             
+ 7    89863424            SANTISTEBAN/BRAVO/EDGARD                Juliaca             
+ 8    99250306            AQUINO/BACA/ALEX                        Arequipa            
+ 9    33321424            MORALES/QUIROGA/SILVANA GLENDA          Arequipa            
+10    64333011            JUSTINO/FORZANI/ERICKA VICTORIA         Arequipa            
+11    40097416            CERNA/DURAND/MARTIN                     Juliaca             
+12    93553218            SUAREZ/BOLANOS/RAFAEL                   Juliaca             
+13    78500352            IBEROS/VALDERRAMA/RAFAEL                Juliaca             
+14    93862741            VALVERDE/BERROCAL/RONY GONZALO          Arequipa            
+15    74028555            ANTEZANO/SEGURA/TERESA DELIA            Juliaca             
+16    80528968            BARRERA/MIRANDA/ALEXANDER MARTIN        Juliaca             
+17    19449476            ROSEMBERG/LAU/JULIO HENRRY              Arequipa            
+18    71469277            ARCA/SANCHEZ/MAGALI BEATRIZ             Arequipa            
+19    43701372            LEYVA/SAM/DIANA DELIA                   Arequipa            
+20    43722669            ZAVALETA/VILCA/ERICKA ELEONOR           Arequipa            
+----------------------------------------------------------------------------------------------------
+Vehiculo No. 10
+Placa:  G7Y-809
+Chofer: TABORI/ARIAS/ROSARIO
+Ruta: Arequipa - Cuzco - Puerto-Maldonado
+Pasajeros:
+No.      DNI              Nombre
+ 1    90573514            CARBAJAL/SALAS/MAGDA ZKENIA             Cuzco               
+ 2    87990396            VILCA/LEE/NESTOR HUGO                   Arequipa            
+ 3    91497975            QUIROGA/HERNANDEZ/SILVANA ZKENIA        Cuzco               
+ 4    48904773            TORREALBA/SALAS/DIANA ANNIE             Arequipa            
+ 5    59100291            DIAZ/SERRANO/WALDEMAR                   Arequipa            
+ 6    12796163            TSUKAZAN/ORTEGA/VICTOR                  Cuzco               
+ 7    98944329            GORDILLO/SHIRAKAWA/YDALI                Arequipa            
+ 8    70604038            ESCALANTE/VIZCARRA/HELI                 Arequipa            
+ 9    24510768            ZAMORA/ZAMORA/WILLIAMS                  Cuzco               
+----------------------------------------------------------------------------------------------------
+Vehiculo No. 11
+Placa:  F1D-694
+Chofer: RODRIGUEZ/SERRANO/CESAR JAIME
+Ruta: Huancavelica - Ayacucho
+Pasajeros:
+No.      DNI              Nombre
+ 1    54761731            LOYOLA/IBEROS/ANGEL GUSTAVO             Huancavelica        
+ 2    66409237            CANO/DELGADO/WILLIAMS                   Huancavelica        
+ 3    63437380            PINTO/CABELLO/SILVIA FELICITA           Huancavelica        
+ 4    78922174            ALAMO/MEZA/ALVARO                       Huancavelica        
+ 5    49087435            GALLO/MARTINEZ/VICTOR GUILLERMO         Huancavelica        
+ 6    99251008            SALAS/PENA/KARINA CARMEN                Huancavelica        
+ 7    51673086            SAM/ESTRADA/MARINA ESTEFANIA            Huancavelica        
+ 8    49593787            ARCA/URBINA/ISRAEL CHRISTIAN            Huancavelica        
+ 9    62229503            BENITES/BENAVENTE/FLOR PATRICIA         Huancavelica        
+10    69937474            DIAZ/VELASQUEZ/MARINA OFELIA            Huancavelica        
+11    61002359            DELGADO/GONZALES/GUILLERMO ALFONSO      Huancavelica        
+12    83302451            HENRIQUEZ/ESPINO/BEATRIZ                Huancavelica        
+13    52338712            CHAVEZ/PRADO/SILVANA                    Huancavelica        
+14    73884562            PATINO/CHUNG/BEATRIZ ROSA               Huancavelica        
+15    52027852            ASTETE/RIOS/CESAR WILVER                Huancavelica        
+16    90010594            EGUSQUIZA/BERROCAL/DORIS NANCY          Huancavelica        
+17    44033308            JAUREGUI/CASTILLO/VICTOR RICARDO        Huancavelica        
+18    90153517            MERCADO/CORONEL/ELIA                    Huancavelica        
+19    16602777            ARROYO/TOMASICHE/NATALIA                Huancavelica        
+----------------------------------------------------------------------------------------------------
+Vehiculo No. 12
+Placa:  I1X-633
+Chofer: VILCARA/JUGO/JULIO
+Ruta: Huancavelica - Pasco - Huanuco - Tingo-Maria
+Pasajeros:
+No.      DNI              Nombre
+ 1    38913831            FUENTES/TSUKAZAN/PATRICIA OFELIA        Huanuco             
+ 2    88956889            CHUMPITAZ/CARBAJAL/MARITZA              Huanuco             
+ 3    22010173            HERNANDEZ/BARRIOS/EMILIO                Huanuco             
+ 4    17366750            FERNANDEZ/ORTEGA/ELIZABETH ELIZABETH    Huanuco             
+ 5    29594780            PALOMARES/VERA/HENRRY HUMBERTO          Huanuco             
+ 6    68445757            LANDA/PISCOYA/CHRISTIAN                 Huanuco             
+ 7    13588661            URBINA/CASTILLO/HELI                    Huanuco             
+ 8    75432503            MONTERO/MONTERO/ANNIE                   Huanuco             
+ 9    48090595            TRIGUEROS/JUGO/LUZ                      Huanuco             
+10    69228571            SOLIS/NARVAEZ/MARIA MADELEINE           Huanuco             
+11    56166837            SEDANO/RETAMOSO/ELIA YOLANDA            Huancavelica        
+12    69255097            ZAMORA/ZAVALETA/RONAL MANUEL            Huanuco             
+13    11973737            DURAND/MIRANDA/MIGUEL JUAN              Huanuco             
+14    73185914            MEJIA/RODRIGUEZ/INES VALENTINA          Huanuco             
+15    97491722            SUAREZ/CHANG/GLORIA                     Huanuco             
+16    30378149            CUEVA/FUENTES/CINTHIA DELIA             Huancavelica        
+17    55470532            VALDERRAMA/BERROCAL/EVERT               Huanuco             
+18    22576118            RODRIGUEZ/ARGUEDAS/ALFONSO              Pasco               
+19    15547800            ALAMO/ALDAVE/WILLIAMS                   Huancavelica        
+----------------------------------------------------------------------------------------------------
+Vehiculo No. 13
+Placa:  H7K-813
+Chofer: AMEZQUITA/CONTRERAS/HUMBERTO ALFONSO MIGUEL
+Ruta: Huaraz - Huanuco - Moyobamaba
+Pasajeros:
+No.      DNI              Nombre
+ 1    33718985            LANDEO/ESTRADA/MIGUEL ALEX              Moyobamaba          
+ 2    81114108            ZAMBRANO/SHIRAKAWA/WILMER               Moyobamaba          
+ 3    89429489            SERRANO/IPARRAGUIRRE/VIRGINIA           Moyobamaba          
+ 4    43488351            MINAYA/CERNA/LORENA FIORELLA            Moyobamaba          
+ 5    54716824            VALVERDE/SEGURA/MIGUEL JOSE             Moyobamaba          
+ 6    83505958            CONTRERAS/MEZA/ERIKA BLANCA             Moyobamaba          
+ 7    58187172            SUAREZ/ZIMIC/MOISES                     Moyobamaba          
+ 8    22899205            SALAZAR/CORRALES/LORENA IRMA            Moyobamaba          
+ 9    56364198            WONG/MARTEL/MADELEINE                   Huaraz              
+10    20667571            AQUINO/TORO/VALENTINA ROCIO             Huaraz              
+11    83756748            YOSHINARI/RIVERA/PAUL                   Moyobamaba          
+12    98297137            RETAMOSO/BARRERA/OSCAR                  Moyobamaba          
+13    97738037            SOMA/PINTO/LOURDES SONIA                Moyobamaba          
+14    80208319            SUAREZ/MORALES/AMARU                    Moyobamaba          
+15    90404826            ESCALANTE/ROJAS/INES ADRIA              Moyobamaba          
+16    21386432            RIVERO/CORTEZ/WILVER ALFONSO            Moyobamaba          
+17    26967571            YEP/PRECIADO/RICHARD                    Moyobamaba          
+18    48441864            GORDILLO/SANCHEZ/RONALD JUVENAL         Huaraz              
+19    40446378            VILCA/CONTRERAS/SURAMI YVONNE           Huaraz              
+20    97333062            ARCA/FUENTES/HENRRY CHRISTIAN           Huaraz              
+21    80280986            BACA/LOVERA/LUIS WILLIAMS               Moyobamaba          
+----------------------------------------------------------------------------------------------------
+Vehiculo No. 14
+Placa:  W4M-272
+Chofer: SHIRAKAWA/FLORIAN/JAIME JULIAN
+Ruta: Moquegua - Tacna
+Pasajeros:
+No.      DNI              Nombre
+ 1    11602775            HIJAR/ARCA/ADOLFO                       Moquegua            
+ 2    41347722            MEJIA/FLORIAN/ARTURO                    Moquegua            
+ 3    92040310            VALVERDE/FLORES/IRMA YDALI              Moquegua            
+ 4    18523250            CHUNG/LEE/ALVARO                        Tacna               
+ 5    28119151            ARROYO/GORDILLO/MARIA HELI              Tacna               
+ 6    73831431            MALDONADO/RAMIREZ/SILVANA               Moquegua            
+ 7    39417975            MEJIA/DE LA HAZA/FRANCISCO EDGAR        Moquegua            
+ 8    52629673            PASQUEL/QUIO/SURAMI JANET               Tacna               
+ 9    99289525            PORTUGAL/BENAVENTE/JOHANA GLORIA        Moquegua            
+10    47241133            MIYAKE/MEREL/MADELEINE YLIANA           Tacna               
+11    17182437            CALDERON/ORTEGA/GUILLERMO               Moquegua            
+12    94675504            VILLEGAS/PALOMINO/DORIS FREYSA          Moquegua            
+13    31879918            MEJIA/HUAYANAY/CHRISTIAN ALONSO         Tacna               
+14    24596637            LAU/BACA/MONICA TERESA                  Tacna               
+15    92039993            VARGAS/ALAMO/DANIEL                     Moquegua            
+16    27329072            CALIXTO/CASTILLO/ERICK PAUL             Tacna               
+17    78377191            DURAND/VALVERDE/ENRIQUE JORGE           Moquegua            
+18    59347357            ASMAD/CHAVEZ/ADRIA                      Moquegua            
+19    23912934            SUELDO/SEDANO/ADRIA                     Tacna               
+20    87310295            ARCA/LARRIEGA/LUCERO YLIANA             Moquegua            
+----------------------------------------------------------------------------------------------------
+Vehiculo No. 15
+Placa:  S0M-437
+Chofer: COLLADO/VILLA GARCIA/RAUL
+Ruta: Trujillo - Piura - Tumbes
+Pasajeros:
+No.      DNI              Nombre
+ 1    99842319            MARTINEZ/MARTINEZ/CARMELA               Tumbes              
+ 2    25504077            LAU/VIZCARRA/HECTOR ALEX                Piura               
+ 3    71762850            VALDERRAMA/CHANG/JOHAN JUVENAL          Tumbes              
+ 4    99532801            PRECIADO/TOKESHI/HENRY                  Trujillo            
+ 5    97934179            SANCHEZ/PRECIADO/SANDRO WILMER          Trujillo            
+ 6    61358228            CABRERA/LUNA/SHIRLEY ISABEL             Tumbes              
+ 7    24304492            ROMERO/PALOMARES/GLORIA TATIANA         Tumbes              
+ 8    42436159            SANTISTEBAN/MEZA/ROSA                   Tumbes              
+ 9    47917936            RAFFO/CHUNG/ADRIA GLORIA                Piura               
+10    47866569            NORABUENA/PRECIADO/CINTHIA              Trujillo            
+11    58821689            CORONEL/CHUMPITAZ/HELI                  Tumbes              
+12    48902750            BENAVENTE/AYALA/VIRGINIA IRMA           Trujillo            
+13    81274303            BARRIOS/TOMASICHE/CARLOS ALBERTO        Tumbes              
+14    16159030            CORTEZ/SEGURA/CARMELA INES              Trujillo            
+15    64877170            CALIXTO/TOMASICHE/MONICA DORIS          Tumbes              
+16    65873711            SALAS/URBINA/MAGDA CARMEN               Tumbes              
+17    66066730            SAKAGUCHI/MORI/CARLOS RONAL             Trujillo            
+18    84265465            BRAVO/CORTES/JANET FLOR                 Piura               
+19    45242696            ZARATE/PEREZ/ALEXANDER                  Piura               
+20    91459909            CHAVEZ/BERROCAL/JOHAN                   Tumbes              
+21    37187313            FUENTES/ESCALANTE/PATRICIA ELIZABETH    Piura               
+22    69765157            RIVERO/CORONADO/HECTOR ALONSO           Trujillo            
+23    42721310            AVILA/REYES/TATIANA                     Trujillo            
+24    40364347            AVILA/MARTEL/JAIME MANUEL               Piura               
+25    58824092            SERRANO/IBEROS/FRANCISCO                Piura               
+26    29071170            ZAVALETA/CORONADO/FELICITA ELOISA       Trujillo            
+27    59344282            CABRERA/TORO/FANNY                      Trujillo            
+----------------------------------------------------------------------------------------------------
+Vehiculo No. 16
+Placa:  U3G-207
+Chofer: PEREZ/ANTEZANO/DAVID CARLOS
+Ruta: Pisco - Ica - Nazca
+Pasajeros:
+No.      DNI              Nombre
+ 1    62303425            CABRERA/MORI/GLENDA                     Nazca               
+ 2    96659352            BRAVO/VIZCARRA/ROBERTO                  Nazca               
+ 3    26290971            SANTISTEBAN/AYALA/CAROLA MARITZA        Ica                 
+ 4    90365520            PALOMINO/ADAMS/SANDRO RONALD            Ica                 
+ 5    62324793            GAVIDIA/MORENO/ISRAEL ROLANDO           Nazca               
+ 6    89148118            ZAMBRANO/LEYVA/ALVARO                   Ica                 
+ 7    42798099            ZEGARRA/MUNOZ/SONIA GUIDA               Ica                 
+ 8    59407188            CANALES/MOYA/ALONSO JULIO               Ica                 
+ 9    27635082            CONTRERAS/GUEVARA/MARINA                Ica                 
+10    28390487            IPARRAGUIRRE/PAREDES/RAUL               Nazca               
+11    28546649            LOPEZ/LAURA/FELICITA                    Ica                 
+12    96994320            DIAZ/CORREA/IRMA VIRGINIA               Ica                 
+13    31117769            LOZADA/YINO/MARTHA                      Nazca               
+14    62935160            CABRERA/CANALES/GUILLERMO EDRIC         Nazca               
+15    81190754            MEDINA/VELASQUEZ/MILENA JENNY           Nazca               
+16    42463525            AMEZQUITA/EPIQUEN/EVERT ROBERTO         Nazca               
+17    52061162            CORONADO/FIGUEROA/JOHAN                 Ica                 
+18    48537380            PATINO/BOLANOS/DELICIA VIRGINIA         Ica                 
+19    95031231            RETAMOSO/SALAMANCA/DELIA MARITZA        Ica                 
+20    69614902            JUSTINO/MARTINEZ/ENRIQUE                Ica                 
+----------------------------------------------------------------------------------------------------
+Vehiculo No. 17
+Placa:  W4X-437
+Chofer: ZEGARRA/CABELLO/CINTHIA MILENA
+Ruta: Chiclayo - Paita - Sullana - Talara
+Pasajeros:
+No.      DNI              Nombre
+ 1    26221442            PRECIADO/PINTO/SURAMI HELI              Paita               
+ 2    50862708            ZIMIC/SALAS/FRANCISCO                   Paita               
+ 3    87800799            QUIROGA/SALAZAR/JOHNNY ROBERTO          Paita               
+ 4    38637282            TABORI/CARBAJAL/YDALI MAGDA             Paita               
+ 5    86402303            RUIZ/RUIZ/OFELIA DELIA                  Paita               
+ 6    32904023            PRADO/FORZANI/LOURDES                   Paita               
+ 7    93160528            SANTISTEBAN/MARTEL/MARTIN LUIS          Sullana             
+ 8    52097922            CUBA/DURAND/YVONNE DELIA                Paita               
+ 9    17739376            BENITES/RAFFO/OFELIA LUZ                Paita               
+10    87000267            BENAVENTE/ARANDA/MOISES                 Chiclayo            
+11    14170550            LANDEO/CHAVARRI/FAUSTO                  Sullana             
+12    11743727            REYES/TANG/EDWARD                       Chiclayo            
+13    58464455            CERNA/PAIRAZAMAN/FIORELLA MARGOT        Sullana             
+14    34057485            VEGA/GARCIA/JANET REBECA                Paita               
+15    45232784            VASQUEZ/PAZ/ALEX MARTIN                 Chiclayo            
+----------------------------------------------------------------------------------------------------
+Vehiculo No. 18
+Placa:  M9J-101
+Chofer: NORABUENA/ZEGARRA/DELICIA
+Ruta: Huacho - Cimbote
+Pasajeros:
+No.      DNI              Nombre
+ 1    79372768            BERROCAL/YALLICO/ANNIE SOFIA            Cimbote             
+ 2    50375303            SANCHEZ/HUAYANAY/DIALY LUCERO           Cimbote             
+ 3    81310110            MENDOZA/EGUSQUIZA/ROSARIO               Cimbote             
+ 4    19336444            MEJIA/DIAZ/BLANCA MILAGROS              Cimbote             
+ 5    79875775            SALAS/AGUERO/DANIEL                     Cimbote             
+ 6    45525687            AYALA/CASTILLO/ERICKA OFELIA            Cimbote             
+ 7    95451438            SANCHEZ/DEL/CASTILLO FIORELLA ROSARIO   Cimbote             
+ 8    94533040            CANO/POLO/MILAGROS ISABEL               Cimbote             
+ 9    48202441            ARROYO/COLLADO/JESSICA DELICIA          Cimbote             
+10    69188068            LOYOLA/PEREZ/ALBERTO                    Cimbote             
+11    80659999            MORI/TOKESHI/FELICITA GLENDA            Huacho              
+12    89539477            VELASQUEZ/ORTEGA/CARMELA ELOISA         Huacho              
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+PASAJEROS SIN ASIGNAR:
+No.     DNI         Nombre                                          Destino
+ 1   73905548       GARCIA/INGA/MARINA NATALIA              Tingo Maria         
+ 2   33713901       VILLEGAS/CASTRO/SOFIA VIRGINIA          Puerto Maldonado    
+ 3   73535476       AYALA/SANCHEZ/MARIA TERESA              Tingo Maria         
+ 4   87813843       AYALA/ACUNA/RONY ALEX                   Tingo Maria         
+ 5   40112594       CARO/RARAZ/CHRISTIAN RONAL              Tingo Maria         
+ 6   17972674       PISCOYA/PORTUGAL/WALDEMAR GUSTAVO       Iquitos             
+ 7   98140264       ALAMO/ZEGARRA/ISRAEL GUSTAVO            Iquitos             
+ 8   24716202       PINTO/CALIXTO/SHIRLEY                   Tarapoto            
+ 9   48832211       FORZANI/CARO/ALONSO                     Tarapoto            
+10   99315346       CASTRO/SUAREZ/ROLANDO                   Tarapoto            
+11   53759600       PRADO/FALCON/EDGAR RICHARD              Iquitos             
+12   42593311       PISCOYA/BRAVO/CESAR BRUNO               Tarapoto            
+13   74032894       CERNA/HIJAR/JOSE ROLANDO                Puerto Maldonado    
+14   20790905       VILLA/YALLICO/TATIANA NANCY             Yurimaguas          
+15   69990549       PRADO/VERGEL/CARLOS JULIAN              Puerto Maldonado    
+16   69965717       VELASQUEZ/HUAYANAY/EDGARD HENRY         Chachapoyas         
+17   91510172       INGA/FLORES/CESAR ADOLFO                Chachapoyas         
+18   15171622       CORRALES/TSUKAZAN/IRMA LOURDES          Chachapoyas         
+19   35065161       AURIS/ZIMIC/JAVIER DANIEL               Yurimaguas          
+20   59608456       LANDEO/SUELDO/ADOLFO                    Puerto Maldonado    
+21   33332473       CARO/POLO/SANDRO                        Puerto Maldonado    
+22   89473250       JUSTINO/CRUZ/WILLIAMS                   Yurimaguas          
+23   75454254       CAMACHO/AGUERO/ELIA ROSA                Tarapoto            
+24   70532120       CRUZ/FUENTES/JOHANA YDALI               Chachapoyas         
+25   60184235       ASMAD/ACUNA/ANNIE OFELIA                Cajamarca           
+26   33132202       PAIRAZAMAN/CUBA/ALBERTO                 Chachapoyas         
+27   50222718       GORDILLO/YINO/YVONNE ROSARIO            Puerto Maldonado    
+28   55661032       FLORIAN/MORALES/YDALI                   Chachapoyas         
+29   35679358       MOYA/ARANDA/JOHNNY                      Pucallpa            
+30   23972672       HIJAR/PAIRAZAMAN/JENNY DELICIA          Yurimaguas          
+31   18869687       ALAMO/PAIRAZAMAN/MIGUEL ROBERTO         Tingo Maria         
+32   19291013       RUIZ/GORDILLO/CAROLA ERIKA              Pucallpa            
+33   39923112       SEGURA/MALCA/RONY                       Chiclayo            
+34   42804086       FARFAN/FALCON/ELIZABETH KARIN           Puerto Maldonado    
+35   18843347       MEREL/SALAZAR/ANNIE LOURDES             Sullana             
+36   78239339       SUELDO/RUIZ/ANTONIO                     Iquitos             
+37   41368424       DIAZ/REYES/WALTER EDGAR                 Iquitos             
+38   44472907       FALCON/PRECIADO/ALEX HENRY              Paita               
+39   50349647       VILLEGAS/LEIVA/FELICITA                 Yurimaguas          
+40   52256304       SUAREZ/MUNOZ/MADELEINE                  Cajamarca           
+41   30057152       CHUMPITAZ/PALOMARES/VIRGINIA            Yurimaguas          
+42   52650685       GUEVARA/MIYAKE/MILENA                   Pucallpa            
+43   47925388       MIRANDA/CHUMPITAZ/ALFONSO               Paita               
+44   56196922       ORTIZ/DURAND/RAUL                       Cajamarca           
+45   27473221       JUSTINO/NORABUENA/VIRGINIA KARINA       Tarapoto            
+46   90665950       SAM/YALLICO/INES                        Cajamarca           
+47   59602968       LOZADA/IBEROS/HELI BLANCA               Cajamarca           
+48   20229814       SOLIS/CHUNG/ROLANDO                     Yurimaguas          
+49   74217478       LOZADA/ARGUEDAS/FELICITA VALENTINA      Yurimaguas          
+50   76685676       VIZCARDO/SINCHE/MARIBEL                 Cajamarca           
+51   22129918       PRADO/VERA/JUAN                         Puerto Maldonado    
+52   55626526       MOSCOSO/ARIAS/FIORELLA                  Junin               
+53   26247257       NARVAEZ/CASTILLO/JESUS RAFAEL           Yurimaguas          
+54   46567452       LOZADA/FORZANI/DELIA                    Cajamarca           
+55   85152618       RODRIGUEZ/MORENO/BLANCA OFELIA          Pucallpa            
+56   43530448       DIAZ/TANG/ENRIQUE                       Paita               
+57   92051747       PENA/SUAREZ/GLENDA MARGOT               Iquitos             
+58   99843190       HIJAR/LAM/MARTIN                        Puerto Maldonado    
+59   72299912       RIOS/ZAMORA/INES                        Sullana             
+60   37851651       VEGA/VILCARA/CARMELA TERESA             Tingo Maria         
+61   85990274       CERNA/CERNA/CINTHIA                     Cajamarca           
+62   72461485       MOSCOSO/LAURA/JANET VALENTINA           Chiclayo            
+63   78446851       RAFFO/CORONADO/ROLANDO                  Tingo Maria         
+64   12293585       INFANTES/MERCADO/LUIS WALDEMAR          Tarapoto            
+65   27455636       FARFAN/SALAZAR/MARGOT                   Chachapoyas         
+66   42284294       WONG/MAEIREIZO/BEATRIZ                  Puerto Maldonado    
+67   96652987       SALAMANCA/VEGA/VIRGINIA MARTHA          Tacna               
+68   63811239       MORALES/PASQUEL/KARIN MARIBEL           Tarapoto            
+69   26959197       SAAVEDRA/GONZALES/WILMER                Junin               
+70   86235838       TANG/MOSCOSO/JOHANA                     Chachapoyas         
+71   62092814       LEE/SERRANO/ROSARIO                     Cajamarca           
+72   44329979       LAU/ZAVALETA/YDALI ELIA                 Chachapoyas         
+73   79196765       TOKESHI/GUEVARA/JAIME                   Puno                
+74   33491703       VILCARA/YALLICO/MAGALI                  Moquegua            
+75   55368576       RUIZ/ZEVALLOS/WALTER RONY               Junin               
+76   21745683       RIOS/DURAND/CARLOS EDILBERTO            Tingo Maria         
+77   99550710       PINTO/ROJAS/JUVENAL FRANCISCO           Pucallpa            
+78   57968975       ASTETE/CHANG/GUIDA                      Paita               
+79   38794979       ZEGARRA/PENA/CARMELA                    Paita               
+80   93820408       FLORIAN/VALDERRAMA/JOSE                 Junin               
+81   12149270       INGA/PALOMARES/ERIKA                    Tarapoto            
+82   42145492       FUENTES/GAMARRA/HUGO                    Chiclayo            
+83   55666470       EPIQUEN/AVILA/ENRIQUE                   Nazca               
+84   40372229       TRIGUEROS/PORTUGAL/ARTURO FAUSTO        Pucallpa            
+85   13492454       LEYVA/LANDEO/NANCY SONIA                Tingo Maria         
+86   83020026       DIAZ/MOYA/ELIA ANNIE                    Ica                 
+87   91494505       SALAMANCA/CABRERA/NESTOR EVERT          Iquitos             
+88   66724048       GONZALES/GAMARRA/GIOVANA KARINA         Cajamarca           
+89   68189125       RONDON/CABRERA/ALEXANDER ADOLFO         Moquegua            
+90   90540400       MARTINEZ/CRUZ/EVERT RONY                Tarapoto            
+91   46784697       IPARRAGUIRRE/PEREZ/NICOLAS              Nazca               
+92   65176543       DEL/CASTILLO/ANNIE AVILA                Juliaca             
+93   56398193       VIZCARRA/MONTERO/JAIR                   Tingo Maria         
+94   51469018       VIZCARRA/CARBAJAL/IVAN FAUSTO           Juliaca             
+95   80974350       PRADO/ESPINOZA/MILAGROS                 Nazca               
+96   65342380       FLORIAN/CUBA/CHRISTIAN                  Cajamarca           
+97   59792081       HENRIQUEZ/PAREDES/PAUL RAFAEL           Sullana             
+98   36448815       NORABUENA/MOYA/HECTOR                   Tacna               
+99   41428224       MINAYA/BERROCAL/HELI                    Sullana             
+100   90165584       CASANOVA/ZEGARRA/MARITZA                Nazca               
+101   51877849       POMAJAMBO/EGUSQUIZA/PAUL                Paita               
+102   22702818       SUELDO/ANTEZANO/LUIS JESUS              Ica                 
+103   66248500       ESPINOZA/CHANG/SHIRLEY                  Puno                
+104   13047945       CASTILLO/NARVAEZ/ELOISA SILVANA         Juliaca             
+105   78213234       ROSEMBERG/ROSEMBERG/JAIR ALONSO         Junin               
+106   34538548       VILLA/TORO/RONAL JAIME                  Tarapoto            
+107   48432568       YEP/VALDERRAMA/ALVARO                   Chachapoyas         
+108   71910185       BENITES/RAFFO/FIORELLA ELEONOR          Piura               
+109   38236879       WONG/SUELDO/RICHARD                     Piura               
+110   16448723       ROMERO/RAFFO/JENNY SILVIA               Chiclayo            
+111   92461405       GAMARRA/GAVIDIA/FAUSTO EMIGDIO          Sullana             
+112   81051334       AYALA/SHIRAKAWA/VICTORIA                Puerto Maldonado    
+113   70242514       ZAMBRANO/MIRANDA/JUVENAL MELVIN         Yurimaguas          
+114   63636702       CORREA/ROJAS/BEATRIZ                    Pucallpa            
+115   96952834       RIOS/ARROYO/RAUL ENRIQUE                Tumbes              
+116   87067411       MIRANDA/RODRIGUEZ/JAVIER                Chachapoyas         
+117   23353581       DEL/POZO/JENNY MAEIREIZO                Tarapoto            
+118   97821181       GAVIDIA/TORO/BLANCA                     Chachapoyas         
+119   19257585       VALVERDE/MERCADO/NESTOR GUSTAVO         Chiclayo            
+120   70318627       BOLANOS/CORREA/MARIBEL FREYSA           Nazca               
+121   19145687       ZAMBRANO/TORRES/MOISES GUILLERMO        Abancay             
+122   79571251       PINTO/SAAVEDRA/RAUL                     Ica                 
+123   25122383       VILCA/ESPINO/INES                       Piura               
+124   80951690       BOLANOS/SANTISTEBAN/MARINA GUIDA        Junin               
+125   69560327       SALAZAR/PAIRAZAMAN/ANNIE EVELING        Iquitos             
+126   17683671       URBINA/MOYA/ISRAEL OSCAR                Tacna               
+127   76620776       ARANA/CALDERON/MILAGROS                 Tacna               
+128   64068205       MARTINEZ/AQUINO/YVONNE                  Puno                
+129   60728886       PASQUEL/AGUERO/LUIS MELVIN              Cajamarca           
+130   65355578       DELGADO/JUSTINO/TERESA                  Chachapoyas         
+131   43216567       MORENO/VERGEL/GUILLERMO                 Puerto Maldonado    
+132   89347327       NARVAEZ/PEREZ/EVELING                   Chiclayo            
+133   64578004       INGA/LEYVA/RONY ALEXANDER               Tumbes              
+134   36819622       HERNANDEZ/CONTRERAS/MELVIN ALVARO       Puno                
+135   29764816       CONTRERAS/EGUSQUIZA/AMARU ALONSO        Chachapoyas         
+136   18085529       SOLIS/VILCA/JULIAN                      Moquegua            
+137   58694253       PRECIADO/RAMIREZ/ESTEFANIA CARMELA      Puno                
+138   96288129       BARRIOS/SANCHEZ/HENRRY EMILIO           Chiclayo            
+139   91028471       BENITES/SEGURA/VICTOR                   Tarapoto            
+140   78067173       MERCADO/QUIROGA/CHRISTIAN               Ica                 
+141   59406428       MERCADO/SAAVEDRA/OSCAR FERNANDO         Nazca               
+142   13810210       MORENO/VALDERRAMA/JAVIER ALFONSO        Sullana             
+143   83749577       EGUSQUIZA/SOMA/JESSICA                  Sullana             
+144   79361674       LOVERA/AGUIRRE/JAVIER PAUL              Tingo Maria         
+145   38621303       MEJIA/QUIO/JESSICA JOHANA               Tumbes              
+146   15175784       CALIXTO/BERROCAL/ALONSO LUIS            Juliaca             
+147   59779912       FIGUEROA/CHAVEZ/FERNANDO                Yurimaguas          
+148   84794183       SORIA/MEZA/HENRRY JAVIER                Junin               
+149   78409335       GAVIDIA/POMAJAMBO/PATRICIA              Iquitos             
+150   55987731       ZAMBRANO/SALAMANCA/WILLIAMS             Tumbes              
+151   12524697       SAONA/POMAJAMBO/DIANA JANET             Iquitos             
+152   47403175       AVILA/QUIROGA/EDRIC                     Tingo Maria         
+153   53423306       QUISPE/BERROCAL/VICTORIA MARINA         Sullana             
+154   41787735       MERCADO/FUENTES/MARTIN                  Ayacucho            
+155   61135045       ZAVALETA/BENAVENTE/ALONSO               Tumbes              
+156   81525992       PENA/ARCA/DELICIA GIOVANA               Tacna               
+157   58164669       SALAS/ROSEMBERG/SILVANA                 Iquitos             
+158   72435455       LOYOLA/ZIMIC/WILMER                     Junin               
+159   38748370       URBINA/ARROYO/HECTOR                    Ayacucho            
+160   54644007       VIZCARRA/VEGA/SURAMI                    Abancay             

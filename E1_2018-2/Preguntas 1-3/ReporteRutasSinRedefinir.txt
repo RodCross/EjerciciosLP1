@@ -1,0 +1,81 @@
+                                  REPORTE DE RUTAS
+---------------------------------------------------------------------------------------
+PLACA     NOMBRE CHOFER                           NUM ASIENTOS         CIUDADES DESTINO        
+=======================================================================================
+P9A-528   CASTILLO/MEJIA/GUSTAVO ALONSO                  10                         Ica
+                                                                               Arequipa
+                                                                               Moquegua
+                                                                                  Tacna
+---------------------------------------------------------------------------------------
+H9R-580   SAENZ/ARANDA/WILMER                            25                       Junin
+                                                                                  Pasco
+                                                                               Pucallpa
+---------------------------------------------------------------------------------------
+V1S-429   CALIXTO/TORRES/MIGUEL                          15                     Huanuco
+                                                                               Pucallpa
+                                                                             Yurimaguas
+                                                                                Iquitos
+---------------------------------------------------------------------------------------
+Z0V-608   ZARATE/URBINA/DELIA                            22                      Huaraz
+                                                                               Trujillo
+                                                                              Cajamarca
+                                                                            Chachapoyas
+                                                                               Tarapoto
+---------------------------------------------------------------------------------------
+Q8B-464   ZAMORA/CABRERA/CARMEN                          25                      Huaraz
+                                                                               Trujillo
+                                                                               Chiclayo
+                                                                                  Piura
+                                                                                Sullana
+                                                                                 Tumbes
+---------------------------------------------------------------------------------------
+M3H-482   CABRERA/MORENO/DELIA ESTEFANIA                 25                      Huacho
+                                                                                  Pasco
+---------------------------------------------------------------------------------------
+G8Y-563   FLORENCIO/POLO/FIORELLA ERIKA                  33                    Ayacucho
+                                                                                Abancay
+---------------------------------------------------------------------------------------
+W0O-821   CHUNG/ZUNIGA/ZKENIA IRMA                       24                    Ayacucho
+                                                                                Abancay
+                                                                                  Cuzco
+                                                                                   Puno
+---------------------------------------------------------------------------------------
+Q6F-925   JOLAY/CHUMPITAZ/WALTER                         20                    Arequipa
+                                                                                Juliaca
+                                                                                   Puno
+---------------------------------------------------------------------------------------
+G7Y-809   TABORI/ARIAS/ROSARIO                           25                    Arequipa
+                                                                                  Cuzco
+                                                                       Puerto-Maldonado
+---------------------------------------------------------------------------------------
+F1D-694   RODRIGUEZ/SERRANO/CESAR JAIME                  19                Huancavelica
+                                                                               Ayacucho
+---------------------------------------------------------------------------------------
+I1X-633   VILCARA/JUGO/JULIO                             20                Huancavelica
+                                                                                  Pasco
+                                                                                Huanuco
+                                                                            Tingo-Maria
+---------------------------------------------------------------------------------------
+H7K-813   AMEZQUITA/CONTRERAS/HUMBERTO ALFONSO MIGUEL    25                      Huaraz
+                                                                                Huanuco
+                                                                             Moyobamaba
+---------------------------------------------------------------------------------------
+W4M-272   SHIRAKAWA/FLORIAN/JAIME JULIAN                 20                    Moquegua
+                                                                                  Tacna
+---------------------------------------------------------------------------------------
+S0M-437   COLLADO/VILLA GARCIA/RAUL                      27                    Trujillo
+                                                                                  Piura
+                                                                                 Tumbes
+---------------------------------------------------------------------------------------
+U3G-207   PEREZ/ANTEZANO/DAVID CARLOS                    20                       Pisco
+                                                                                    Ica
+                                                                                  Nazca
+---------------------------------------------------------------------------------------
+W4X-437   ZEGARRA/CABELLO/CINTHIA MILENA                 15                    Chiclayo
+                                                                                  Paita
+                                                                                Sullana
+                                                                                 Talara
+---------------------------------------------------------------------------------------
+M9J-101   NORABUENA/ZEGARRA/DELICIA                      31                      Huacho
+                                                                                Cimbote
+---------------------------------------------------------------------------------------
