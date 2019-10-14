@@ -1,0 +1,11 @@
+#include "Func-Ex-Preg04.h"
+
+int main() {
+    void *extracciones;
+    int N;
+    
+    leerExtracciones(extracciones, N);
+    imprimirExtracciones(extracciones, N);
+
+    return 0;
+}
