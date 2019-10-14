@@ -57,6 +57,7 @@ void** leerExtraccion(ifstream &arch){
         arch.get();
     }
     // Cosas raras si se pone en el for
+    // reemplazando el getline por get()
     arch>>cantidades[4];
     arch.getline(aux, 200);
 
