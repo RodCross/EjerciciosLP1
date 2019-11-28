@@ -1,0 +1,885 @@
+MIEMBROS DE LA BIBLIOTECA
+=========================================================================================================
+Codigo profesor: 1354
+Nombre del profesor: PISCOYA/BRAVO/CESAR BRUNO
+Distrito: Ancon
+Categoria: PRI
+Dedicacion: TC
+Seccion: Economia
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+970         Suspense                                CORRALES/ZIMIC/JAIME DANIEL        Costa Rica          
+
+Codigo profesor: 1526
+Nombre del profesor: CASTRO/SUAREZ/ROLANDO
+Distrito: Barranco
+Categoria: CON
+Dedicacion: TC
+Seccion: Psicologia
+Grado academico: Bachiller
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+
+Codigo profesor: 1639
+Nombre del profesor: VALVERDE/FLORES/IRMA YDALI
+Distrito: Chaclacayo
+Categoria: PRI
+Dedicacion: TC
+Seccion: Civil
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+970         Suspense                                CORRALES/ZIMIC/JAIME DANIEL        Costa Rica          
+
+Codigo profesor: 1677
+Nombre del profesor: ARROYO/GORDILLO/MARIA HELI
+Distrito: San Juan de Miraflores
+Categoria: PRI
+Dedicacion: TP
+Seccion: Derecho penal
+Grado academico: Doctor
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+
+Codigo profesor: 2160
+Nombre del profesor: MALDONADO/RAMIREZ/SILVANA
+Distrito: Brena
+Categoria: CON
+Dedicacion: TP
+Seccion: Pintura
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+970         Suspense                                CORRALES/ZIMIC/JAIME DANIEL        Costa Rica          
+
+Codigo profesor: 2181
+Nombre del profesor: MEJIA/DIAZ/BLANCA MILAGROS
+Distrito: San Juan de Miraflores
+Categoria: PRI
+Dedicacion: TPA
+Seccion: Escultura
+Grado academico: Magister
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+
+Codigo profesor: 2489
+Nombre del profesor: HERNANDEZ/BARRIOS/EMILIO
+Distrito: Comas
+Categoria: PRI
+Dedicacion: TPA
+Seccion: Derecho civil
+Grado academico: Doctor
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+970         Suspense                                CORRALES/ZIMIC/JAIME DANIEL        Costa Rica          
+
+Codigo profesor: 2506
+Nombre del profesor: SANTISTEBAN/MEZA/ROSA
+Distrito: Pachacamac
+Categoria: CON
+Dedicacion: TP
+Seccion: Derecho civil
+Grado academico: Bachiller
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+
+Codigo profesor: 2519
+Nombre del profesor: DELGADO/GONZALES/GUILLERMO ALFONSO
+Distrito: Surquillo
+Categoria: AUX
+Dedicacion: TPA
+Seccion: Derecho civil
+Grado academico: Bachiller
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+
+Codigo profesor: 3309
+Nombre del profesor: CERNA/PAIRAZAMAN/FIORELLA MARGOT
+Distrito: Surquillo
+Categoria: AUX
+Dedicacion: TC
+Seccion: Derecho penal
+Grado academico: Doctor
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+
+Codigo profesor: 3415
+Nombre del profesor: PRADO/FALCON/EDGAR RICHARD
+Distrito: Independencia
+Categoria: CON
+Dedicacion: TP
+Seccion: Informatica
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+
+Codigo profesor: 3442
+Nombre del profesor: CABRERA/LUNA/SHIRLEY ISABEL
+Distrito: San Isidro
+Categoria: ASO
+Dedicacion: TPA
+Seccion: Informatica
+Grado academico: Magister
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+
+Codigo profesor: 4066
+Nombre del profesor: SHIRAKAWA/ORTEGA/ANGEL
+Distrito: Pueblo Libre
+Categoria: AUX
+Dedicacion: TC
+Seccion: Derecho civil
+Grado academico: Bachiller
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+
+Codigo profesor: 4113
+Nombre del profesor: RAFFO/CHUNG/ADRIA GLORIA
+Distrito: Villa Maria del Triunfo
+Categoria: PRI
+Dedicacion: TC
+Seccion: Derecho civil
+Grado academico: Magister
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+
+Codigo profesor: 4341
+Nombre del profesor: REYES/TANG/EDWARD
+Distrito: Barranco
+Categoria: ASO
+Dedicacion: TC
+Seccion: Informatica
+Grado academico: Bachiller
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+
+Codigo profesor: 4399
+Nombre del profesor: DIAZ/CORREA/IRMA VIRGINIA
+Distrito: Carabayllo
+Categoria: AUX
+Dedicacion: TPA
+Seccion: Civil
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+
+Codigo profesor: 5117
+Nombre del profesor: RAFFO/ARIAS/SURAMI ANNIE
+Distrito: Lurin
+Categoria: CON
+Dedicacion: TPA
+Seccion: Derecho civil
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+
+Codigo profesor: 5159
+Nombre del profesor: VEGA/GARCIA/JANET REBECA
+Distrito: Barranco
+Categoria: ASO
+Dedicacion: TPA
+Seccion: Pintura
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+
+Codigo profesor: 5751
+Nombre del profesor: SALAZAR/CORRALES/LORENA IRMA
+Distrito: San Juan de Lurigancho
+Categoria: ASO
+Dedicacion: TC
+Seccion: Mecanica
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+970         Suspense                                CORRALES/ZIMIC/JAIME DANIEL        Costa Rica          
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+
+Codigo profesor: 5882
+Nombre del profesor: CHUNG/LEE/ALVARO
+Distrito: Lurin
+Categoria: ASO
+Dedicacion: TC
+Seccion: Economia
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+
+Codigo profesor: 6054
+Nombre del profesor: MENDOZA/EGUSQUIZA/ROSARIO
+Distrito: Santa Rosa
+Categoria: ASO
+Dedicacion: TPA
+Seccion: Psicologia
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+
+Codigo profesor: 6113
+Nombre del profesor: SHIRAKAWA/MIRANDA/MADELEINE
+Distrito: Pueblo Libre
+Categoria: CON
+Dedicacion: TC
+Seccion: Derecho penal
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+970         Suspense                                CORRALES/ZIMIC/JAIME DANIEL        Costa Rica          
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+
+Codigo profesor: 6453
+Nombre del profesor: FORZANI/CARO/ALONSO
+Distrito: San Bartolo
+Categoria: CON
+Dedicacion: TPA
+Seccion: Derecho penal
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+970         Suspense                                CORRALES/ZIMIC/JAIME DANIEL        Costa Rica          
+
+Codigo profesor: 6939
+Nombre del profesor: ROMERO/PALOMARES/GLORIA TATIANA
+Distrito: Santiago de Surco
+Categoria: PRI
+Dedicacion: TPA
+Seccion: Derecho civil
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+
+Codigo profesor: 7539
+Nombre del profesor: PINTO/CALIXTO/SHIRLEY
+Distrito: Puente Piedra
+Categoria: CON
+Dedicacion: TPA
+Seccion: Derecho civil
+Grado academico: Doctor
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+
+Codigo profesor: 7882
+Nombre del profesor: WONG/MARTEL/MADELEINE
+Distrito: Ancon
+Categoria: ASO
+Dedicacion: TPA
+Seccion: Pintura
+Grado academico: Bachiller
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+
+Codigo profesor: 8246
+Nombre del profesor: CERNA/HIJAR/JOSE ROLANDO
+Distrito: San Bartolo
+Categoria: ASO
+Dedicacion: TP
+Seccion: Civil
+Grado academico: Bachiller
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+
+Codigo profesor: 8791
+Nombre del profesor: DIAZ/ANTEZANO/MAGALI SILVANA
+Distrito: Ate
+Categoria: PRI
+Dedicacion: TPA
+Seccion: Economia
+Grado academico: Bachiller
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+
+Codigo profesor: 9248
+Nombre del profesor: CHUMPITAZ/IBEROS/RONAL
+Distrito: Santa Rosa
+Categoria: PRI
+Dedicacion: TC
+Seccion: Mecanica
+Grado academico: Magister
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+
+Codigo profesor: 9570
+Nombre del profesor: PEREZ/FARFAN/RICHARD SANDRO
+Distrito: San Miguel
+Categoria: ASO
+Dedicacion: TP
+Seccion: Psicologia
+Grado academico: Magister
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+
+Codigo alumno: 17572
+Nombre del alumno: PRADO/VERGEL/CARLOS JULIAN
+Distrito: Santa Rosa
+Escala de pago: 5
+Especialidad: Ing. Informatica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+
+Codigo alumno: 22048
+Nombre del alumno: CERNA/DURAND/MARTIN
+Distrito: Lurigancho-Chosica
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+
+Codigo alumno: 23387
+Nombre del alumno: PALOMARES/VERA/HENRRY HUMBERTO
+Distrito: Santiago de Surco
+Escala de pago: 2
+Especialidad: Ing. Civil
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+
+Codigo alumno: 23604
+Nombre del alumno: VELASQUEZ/HUAYANAY/EDGARD HENRY
+Distrito: Independencia
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+
+Codigo alumno: 23822
+Nombre del alumno: LANDA/PISCOYA/CHRISTIAN
+Distrito: Santa Maria del Mar
+Escala de pago: 5
+Especialidad: Ing. Informatica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+
+Codigo alumno: 26685
+Nombre del alumno: LANDEO/SUELDO/ADOLFO
+Distrito: Cieneguilla
+Escala de pago: 2
+Especialidad: Ing. Civil
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+
+Codigo alumno: 32123
+Nombre del alumno: JUSTINO/CRUZ/WILLIAMS
+Distrito: Lince
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+
+Codigo alumno: 36466
+Nombre del alumno: SALAS/AGUERO/DANIEL
+Distrito: Santa Rosa
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+
+Codigo alumno: 40825
+Nombre del alumno: LAURA/WONG/MELVIN HENRRY
+Distrito: Santa Rosa
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+
+Codigo alumno: 41668
+Nombre del alumno: PAREDES/PATINO/CHRISTIAN
+Distrito: San Miguel
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+
+Codigo alumno: 44573
+Nombre del alumno: INGA/FLORES/CESAR ADOLFO
+Distrito: Chorrillos
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+
+Codigo alumno: 49619
+Nombre del alumno: PORTUGAL/BENAVENTE/JOHANA GLORIA
+Distrito: San Juan de Lurigancho
+Escala de pago: 5
+Especialidad: Ing. Informatica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+
+Codigo alumno: 50139
+Nombre del alumno: CORREA/VIZCARDO/MIGUEL
+Distrito: Punta Hermosa
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+
+Codigo alumno: 52106
+Nombre del alumno: MEJIA/HAZA/FRANCISCO EDGAR
+Distrito: Pueblo Libre
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+
+Codigo alumno: 52680
+Nombre del alumno: CORRALES/TSUKAZAN/IRMA LOURDES
+Distrito: Independencia
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+
+Codigo alumno: 55472
+Nombre del alumno: MEDINA/VELASQUEZ/MILENA JENNY
+Distrito: San Juan de Miraflores
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+
+Codigo alumno: 59519
+Nombre del alumno: MORALES/VALVERDE/INES MARTHA
+Distrito: Lurigancho-Chosica
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+
+Codigo alumno: 62100
+Nombre del alumno: MIYAKE/MEREL/MADELEINE YLIANA
+Distrito: Jesus Maria
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+
+Codigo alumno: 66377
+Nombre del alumno: CORONEL/CHUMPITAZ/HELI
+Distrito: Jesus Maria
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+
+Codigo alumno: 67560
+Nombre del alumno: CAMACHO/AGUERO/ELIA ROSA
+Distrito: El Agustino
+Escala de pago: 2
+Especialidad: Ing. Civil
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+
+Codigo alumno: 69791
+Nombre del alumno: CARO/POLO/SANDRO
+Distrito: Los Olivos
+Escala de pago: 5
+Especialidad: Ing. Informatica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+
+Codigo alumno: 74926
+Nombre del alumno: HENRIQUEZ/ESPINO/BEATRIZ
+Distrito: Lince
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+
+Codigo alumno: 77257
+Nombre del alumno: PASQUEL/QUIO/SURAMI JANET
+Distrito: Cieneguilla
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+
+Codigo alumno: 78376
+Nombre del alumno: BENAVENTE/AYALA/VIRGINIA IRMA
+Distrito: Santa Anita
+Escala de pago: 2
+Especialidad: Ing. Civil
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+
+Codigo alumno: 79138
+Nombre del alumno: AQUINO/TORO/VALENTINA ROCIO
+Distrito: Santa Maria del Mar
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+
+Codigo alumno: 81789
+Nombre del alumno: VILLA/YALLICO/TATIANA NANCY
+Distrito: San Martin de Porres
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+
+Codigo alumno: 83179
+Nombre del alumno: CABRERA/CANALES/GUILLERMO EDRIC
+Distrito: Ate
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+
+Codigo alumno: 89341
+Nombre del alumno: ARCA/AMEZQUITA/EDRIC RONALD
+Distrito: Santa Rosa
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+
+Codigo alumno: 90775
+Nombre del alumno: PAIRAZAMAN/ALAMO/MOISES MIGUEL
+Distrito: Independencia
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+
+Codigo alumno: 92419
+Nombre del alumno: LOZADA/YINO/MARTHA
+Distrito: San Isidro
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+
+Codigo alumno: 97172
+Nombre del alumno: JUSTINO/FORZANI/ERICKA VICTORIA
+Distrito: Pueblo Libre
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+
+Codigo alumno: 98008
+Nombre del alumno: FERNANDEZ/ORTEGA/ELIZABETH ELIZABETH
+Distrito: Cieneguilla
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+
+Codigo alumno: 98202
+Nombre del alumno: VASQUEZ/PAZ/ALEX MARTIN
+Distrito: Lurin
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+970         Suspense                                CORRALES/ZIMIC/JAIME DANIEL        Costa Rica          
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+
+Codigo alumno: 98828
+Nombre del alumno: NORABUENA/PRECIADO/CINTHIA
+Distrito: Santa Rosa
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+
+Codigo alumno: 99050
+Nombre del alumno: AURIS/ZIMIC/JAVIER DANIEL
+Distrito: Chaclacayo
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+
