@@ -1,0 +1,422 @@
+             ALUMNOS DE LA INSTITUCION
+Codigo alumno: 1346
+Alumno de Intercambio
+Nombre del alumno: Hijar/Pairazaman/Jenny-Delicia
+Pais: Camerun
+Idiomas: Frances - Italiano
+Permanecera 1 semestre
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      11    2017-1
+FIS208       8    2017-2
+FIS219      17    2019-0
+FIS220      16    2017-2
+FIS227      15    2017-1
+FIS229      11    2015-0
+MAT218      15    2015-0
+
+Codigo alumno: 1994
+Alumno de Intercambio
+Nombre del alumno: Ruiz/Gordillo/Carola-Erika
+Pais: Puerto Rico
+Idiomas: Ingles
+Permanecera 2 semestres
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      12    2017-0
+FIS203       5    2016-2
+FIS208      14    2017-0
+FIS219      11    2015-2
+FIS220      16    2018-2
+FIS229      11    2019-0
+MAT111      11    2018-2
+MAT218      16    2018-2
+MAT219      13    2016-2
+MAT241      15    2018-2
+
+Codigo alumno: 2075
+Alumno de Intercambio
+Nombre del alumno: Moya/Aranda/Johnny
+Pais: Colombia
+Idiomas: Castellano - Ingles
+Permanecera 2 semestres
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      13    2019-0
+FIS203      16    2015-0
+INF220       7    2019-1
+INF238      12    2019-2
+INF248      12    2017-0
+INF263      10    2019-2
+INF281      15    2016-0
+INF282      11    2016-2
+MAT111       9    2018-1
+MAT218      10    2017-2
+MAT219       8    2017-0
+MAT241      12    2017-0
+
+Codigo alumno: 4450
+Alumno de Intercambio
+Nombre del alumno: Vega/Munoz/Gonzalo
+Pais: Filipinas
+Idiomas: Ingles - Castellano
+Permanecera 1 semestre
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      16    2017-2
+FIS203      18    2018-1
+FIS208      10    2016-0
+MEC206      10    2015-2
+MEC269      12    2019-2
+
+Codigo alumno: 5258
+Alumno de Intercambio
+Nombre del alumno: Gavidia/Mendoza/Ronald-Johnny
+Pais: Japon
+Idiomas: Japones
+Permanecera 2 semestres
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+INF248      15    2019-1
+INF263       9    2018-2
+MAT218      12    2017-2
+MAT219      18    2017-2
+MAT241      18    2019-0
+
+Codigo alumno: 5395
+Alumno de Intercambio
+Nombre del alumno: Alamo/Pairazaman/Miguel-Roberto
+Pais: Austria
+Idiomas: Aleman - Ingles - Castellano - Frances - Italiano
+Permanecera 1 semestre
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      17    2016-2
+FIS203      12    2017-2
+FIS208      14    2017-2
+FIS218      11    2015-2
+INF238      12    2018-2
+INF263      14    2016-2
+INF281      19    2017-1
+MAT111      11    2019-0
+MAT241      11    2015-1
+
+Codigo alumno: 6553
+Alumno de Intercambio
+Nombre del alumno: Coronado/Figueroa/Johan
+Pais: EEUUAA
+Idiomas: Inges - Chino - Coreano
+Permanecera 2 semestres
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      13    2019-0
+INF220      11    2015-2
+INF263      10    2018-1
+INF281       9    2018-1
+MAT111      11    2018-2
+MAT218      12    2019-2
+MAT219      11    2016-1
+
+Codigo alumno: 6702
+Alumno de Intercambio
+Nombre del alumno: Calixto/Tomasiche/Monica-Doris
+Pais: Australia
+Idiomas: Ingles - Quechua - Aymara - Castellano - Frances
+Permanecera 3 semestres
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      10    2018-2
+FIS208      12    2018-2
+FIS218       8    2019-2
+FIS219      14    2018-2
+FIS220      16    2016-1
+FIS227      14    2016-0
+FIS229      12    2019-1
+MAT111      16    2019-0
+MAT218      15    2018-0
+MAT219      14    2017-0
+MAT241      11    2018-2
+MAT781      12    2018-0
+
+Codigo alumno: 6965
+Alumno de Intercambio
+Nombre del alumno: Antezano/Segura/Teresa-Delia
+Pais: Bolivia
+Idiomas: Castellano - Quechua - Aymara - Aleman - Ingles
+Permanecera 3 semestres
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+MAT111      13    2017-2
+MAT218      17    2019-0
+MAT219      11    2017-1
+MAT241       7    2015-2
+
+Codigo alumno: 7613
+Alumno de Intercambio
+Nombre del alumno: Cortez/Segura/Carmela-Ines
+Pais: Alemania
+Idiomas: Aleman - Catalan - Espanol
+Permanecera 3 semestres
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      15    2018-2
+FIS203      12    2019-1
+FIS208      17    2015-1
+FIS218       9    2016-2
+MAT218      10    2015-1
+MAT219      13    2018-2
+MEC206       9    2019-1
+
+Codigo alumno: 8528
+Alumno de Intercambio
+Nombre del alumno: Zarate/Del_Pozo/Humberto-Antonio
+Pais: Ucrania
+Idiomas: Ruso - Polaco - Chino
+Permanecera 3 semestres
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      13    2018-2
+FIS203      14    2018-0
+FIS208      13    2019-2
+FIS218      13    2017-1
+FIS219      13    2018-2
+MEC206      13    2016-2
+
+Codigo alumno: 9442
+Alumno de Intercambio
+Nombre del alumno: Florian/Morales/Ydali
+Pais: Brasil
+Idiomas: Portuges - Italiano - Japones - Chino
+Permanecera 1 semestre
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+MAT111      12    2019-2
+MAT218      14    2017-0
+MAT219      13    2017-0
+MAT241      10    2017-1
+MAT781       8    2019-2
+MEC206      16    2019-1
+MEC209      15    2018-1
+MEC286      18    2017-1
+
+Codigo alumno: 20003541
+Alumno Regular
+Nombre del alumno: Cabrera/Canales/Guillermo-Edric
+Especialidad: Ingenieria Informatica
+Facultad: FCI
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      13    2015-1
+FIS203       8    2018-1
+FIS208      12    2016-0
+FIS218      11    2018-2
+INF220      12    2019-2
+INF263      13    2019-2
+MAT218      11    2015-0
+
+Codigo alumno: 20080667
+Alumno Regular
+Nombre del alumno: Lozada/Yino/Martha
+Especialidad: Matematicas
+Facultad: FCI
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      11    2015-2
+FIS203      13    2017-0
+FIS208      12    2018-1
+MAT111      19    2019-2
+MAT218      11    2017-1
+MAT219      12    2018-2
+
+Codigo alumno: 20083333
+Alumno Regular
+Nombre del alumno: Laura/Wong/Melvin-Henrry
+Especialidad: Ingenieria Mecanica
+Facultad: FCI
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+MEC206      11    2018-2
+
+Codigo alumno: 20097877
+Alumno Regular
+Nombre del alumno: Coronel/Chumpitaz/Heli
+Especialidad: Fisica
+Facultad: FCI
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      17    2015-1
+FIS208      13    2018-2
+FIS218      11    2015-0
+FIS219      15    2019-0
+FIS220      14    2019-2
+FIS227      12    2016-0
+FIS229      16    2015-0
+MAT111      18    2019-1
+
+Codigo alumno: 20109738
+Alumno Regular
+Nombre del alumno: Caro/Polo/Sandro
+Especialidad: Ingenieria Mecanica
+Facultad: EEGGCC
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      11    2015-0
+FIS203      11    2015-0
+FIS208      11    2017-0
+FIS218      11    2018-2
+INF263      12    2015-0
+MAT218       9    2019-0
+MEC206      12    2017-1
+MEC209       9    2018-2
+
+Codigo alumno: 20110165
+Alumno Regular
+Nombre del alumno: Landeo/Sueldo/Adolfo
+Especialidad: Ingenieria Informatica
+Facultad: EEGGCC
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      19    2018-0
+FIS203      17    2019-2
+FIS208      18    2016-1
+FIS218      15    2017-1
+FIS219      17    2018-1
+MAT111      16    2019-2
+MAT218      14    2018-1
+MAT219      12    2017-1
+
+Codigo alumno: 20119778
+Alumno Regular
+Nombre del alumno: Morales/Valverde/Ines-Martha
+Especialidad: Ingenieria Informatica
+Facultad: EEGGCC
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      13    2019-2
+FIS203      12    2018-0
+FIS204      12    2019-2
+INF220      12    2015-1
+INF263      12    2015-0
+INF282      13    2016-1
+MAT111      17    2018-1
+MAT218      16    2016-1
+MAT219      12    2018-1
+
+Codigo alumno: 20120476
+Alumno Regular
+Nombre del alumno: Henriquez/Espino/Beatriz
+Especialidad: Ingenieria Informatica
+Facultad: EEGGCC
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      16    2019-1
+FIS203      16    2019-1
+FIS208      11    2019-2
+INF220      16    2018-0
+INF248      15    2017-0
+INF282      14    2019-0
+MAT219      13    2018-0
+
+Codigo alumno: 20127352
+Alumno Regular
+Nombre del alumno: Justino/Cruz/Williams
+Especialidad: Ingenieria Mecanica
+Facultad: EEGGCC
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      19    2018-1
+FIS203      16    2017-2
+FIS208      17    2016-2
+FIS218      18    2017-1
+MAT111      15    2016-2
+MAT218      15    2017-0
+MEC206       8    2019-1
+MEC209      12    2015-2
+
+Codigo alumno: 20150564
+Alumno Regular
+Nombre del alumno: Auris/Zimic/Javier-Daniel
+Especialidad: Matematicas
+Facultad: FCI
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      13    2019-0
+FIS203      13    2019-0
+FIS208      13    2017-0
+MAT111      13    2018-0
+MAT218      13    2016-2
+MAT219      13    2016-0
+
+Codigo alumno: 20160119
+Alumno Regular
+Nombre del alumno: Paredes/Patino/Christian
+Especialidad: Ingenieria Informatica
+Facultad: FCI
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+INF220      12    2017-0
+INF238      14    2017-1
+INF239      17    2016-1
+INF245      16    2017-0
+INF246      12    2019-2
+INF263      14    2018-1
+INF281      15    2017-1
+INF282      16    2016-2
+MAT111      12    2016-2
+MAT218      14    2016-0
+MAT219      13    2016-0
+MAT241      10    2019-1
+
+Codigo alumno: 20160658
+Alumno Regular
+Nombre del alumno: Arca/Amezquita/Edric-Ronald
+Especialidad: Ingenieria Mecanica
+Facultad: FCI
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+MAT111      16    2018-1
+MAT218      18    2016-1
+MEC206      20    2017-0
+MEC209      19    2018-0
+MEC269      17    2018-0
+
+Codigo alumno: 20164217
+Alumno Regular
+Nombre del alumno: Palomares/Vera/Henrry-Humberto
+Especialidad: Fisica
+Facultad: EEGGCC
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      10    2015-1
+
+Codigo alumno: 20167828
+Alumno Regular
+Nombre del alumno: Pasquel/Quio/Surami-Janet
+Especialidad: Fisica
+Facultad: EEGGCC
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+FIS111      16    2019-0
+FIS208      15    2019-0
+FIS218      14    2018-0
+FIS219      11    2018-0
+FIS220      15    2018-1
+FIS229      12    2019-2
+MAT111      13    2019-0
+MAT218      12    2018-2
+
+Codigo alumno: 20170596
+Alumno Regular
+Nombre del alumno: Portugal/Benavente/Johana-Gloria
+Especialidad: Ingenieria Mecanica
+Facultad: FCI
+LISTADO DE NOTAS:
+CODIGO    NOTA    Semestre
+MAT111      11    2019-2
+MAT218      14    2015-1
+MAT219      13    2019-1
+MAT241      14    2019-2
+MAT781      12    2017-2
+MEC206      14    2017-1
+MEC209      15    2019-1
+
