@@ -1,7 +1,7 @@
-build/Debug/MinGW-Windows/main.o: main.cpp Alumno.h Miembro.h Profesor.h
-
-Alumno.h:
+build/Debug/MinGW-Windows/main.o: main.cpp Miembro.h Alumno.h Profesor.h
 
 Miembro.h:
+
+Alumno.h:
 
 Profesor.h:

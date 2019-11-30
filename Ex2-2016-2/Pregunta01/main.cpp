@@ -6,6 +6,7 @@
  * Created on 27 de noviembre de 2019, 05:46 PM
  */
 
+#include "Miembro.h"
 #include "Alumno.h"
 #include "Profesor.h"
 #include <iostream>
@@ -24,21 +25,18 @@ int main() {
         exit(1);
     }
     
-    Alumno alumno;
-    Profesor profesor;
+    Miembro *miembro;
     char tipo;
     while (1) {
         tipo = archIn.get();
         if(archIn.eof()) break;
         archIn.get(); // sacar la coma
-        if (tipo == 'A') {
-            alumno.leer(archIn);
-            alumno.imprimir(archOut);
-        }
-        else {
-            profesor.leer(archIn);
-            profesor.imprimir(archOut);
-        }
+        
+        if (tipo == 'A') miembro = new Alumno;
+        else miembro = new Profesor;
+        
+        miembro->leer(archIn);
+        miembro->imprimir(archOut);
     }
     
     return 0;
