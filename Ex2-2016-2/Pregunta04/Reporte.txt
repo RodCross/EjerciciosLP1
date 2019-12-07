@@ -1,0 +1,1823 @@
+MIEMBROS DE LA BIBLIOTECA
+=========================================================================================================
+Codigo profesor: 1354
+Nombre del profesor: PISCOYA/BRAVO/CESAR BRUNO
+Distrito: Ancon
+Categoria: PRI
+Dedicacion: TC
+Seccion: Economia
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+15/01/2014      16/01/2014      15/02/2014          A tiempo
+05/07/2014      08/07/2014      07/08/2014          En atencion
+10/04/2016      13/04/2016      13/05/2016          En atencion
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+Reservas:
+31/10/2015      03/11/2015      03/12/2015          Fuera de tiempo
+20/03/2016      24/03/2016      23/04/2016          En atencion
+02/04/2016      03/04/2016      03/05/2016          En atencion
+970         Suspense                                CORRALES/ZIMIC/JAIME DANIEL        Costa Rica          
+Reservas:
+25/06/2014      28/06/2014      28/07/2014          A tiempo
+29/09/2015      03/10/2015      02/11/2015          En atencion
+
+Codigo profesor: 1526
+Nombre del profesor: CASTRO/SUAREZ/ROLANDO
+Distrito: Barranco
+Categoria: CON
+Dedicacion: TC
+Seccion: Psicologia
+Grado academico: Bachiller
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+03/05/2016      04/05/2016      03/06/2016          A tiempo
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+Reservas:
+15/04/2014      16/04/2014      16/05/2014          A tiempo
+05/07/2014      09/07/2014      08/08/2014          Fuera de tiempo
+03/10/2014      05/10/2014      04/11/2014          A tiempo
+05/10/2014      08/10/2014      07/11/2014          Fuera de tiempo
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+Reservas:
+20/06/2014      23/06/2014      23/07/2014          Fuera de tiempo
+09/03/2016      12/03/2016      11/04/2016          A tiempo
+
+Codigo profesor: 1639
+Nombre del profesor: VALVERDE/FLORES/IRMA YDALI
+Distrito: Chaclacayo
+Categoria: PRI
+Dedicacion: TC
+Seccion: Civil
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+Reservas:
+17/06/2014      21/06/2014      21/07/2014          Fuera de tiempo
+22/02/2015      25/02/2015      27/03/2015          A tiempo
+04/02/2016      06/02/2016      07/03/2016          A tiempo
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+Reservas:
+21/01/2014      24/01/2014      23/02/2014          En atencion
+14/04/2014      16/04/2014      16/05/2014          A tiempo
+15/01/2015      18/01/2015      17/02/2015          Fuera de tiempo
+11/11/2015      13/11/2015      13/12/2015          A tiempo
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+Reservas:
+05/05/2014      07/05/2014      06/06/2014          A tiempo
+23/07/2014      24/07/2014      23/08/2014          Fuera de tiempo
+970         Suspense                                CORRALES/ZIMIC/JAIME DANIEL        Costa Rica          
+Reservas:
+17/12/2014      18/12/2014      17/01/2015          A tiempo
+04/09/2016      08/09/2016      08/10/2016          En atencion
+
+Codigo profesor: 1677
+Nombre del profesor: ARROYO/GORDILLO/MARIA HELI
+Distrito: San Juan de Miraflores
+Categoria: PRI
+Dedicacion: TP
+Seccion: Derecho penal
+Grado academico: Doctor
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+Reservas:
+09/04/2016      11/04/2016      11/05/2016          Fuera de tiempo
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+Reservas:
+31/12/2014      02/01/2015      01/02/2015          A tiempo
+24/02/2016      25/02/2016      26/03/2016          En atencion
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+Reservas:
+27/12/2015      31/12/2015      30/01/2016          En atencion
+21/04/2016      25/04/2016      25/05/2016          Fuera de tiempo
+
+Codigo profesor: 2160
+Nombre del profesor: MALDONADO/RAMIREZ/SILVANA
+Distrito: Brena
+Categoria: CON
+Dedicacion: TP
+Seccion: Pintura
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+09/07/2014      13/07/2014      12/08/2014          A tiempo
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+Reservas:
+18/02/2014      21/02/2014      23/03/2014          A tiempo
+23/05/2014      24/05/2014      23/06/2014          Fuera de tiempo
+04/01/2016      07/01/2016      06/02/2016          En atencion
+06/02/2016      08/02/2016      09/03/2016          A tiempo
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+Reservas:
+27/04/2015      28/04/2015      28/05/2015          En atencion
+16/07/2015      19/07/2015      18/08/2015          A tiempo
+11/08/2015      12/08/2015      11/09/2015          A tiempo
+28/06/2016      30/06/2016      30/07/2016          En atencion
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+Reservas:
+17/10/2015      19/10/2015      18/11/2015          Fuera de tiempo
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+Reservas:
+26/01/2014      29/01/2014      28/02/2014          Fuera de tiempo
+27/03/2014      30/03/2014      29/04/2014          Fuera de tiempo
+03/07/2015      06/07/2015      05/08/2015          En atencion
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+Reservas:
+16/10/2016      17/10/2016      16/11/2016          A tiempo
+970         Suspense                                CORRALES/ZIMIC/JAIME DANIEL        Costa Rica          
+Reservas:
+26/04/2015      28/04/2015      28/05/2015          Fuera de tiempo
+18/11/2015      22/11/2015      22/12/2015          A tiempo
+04/03/2016      06/03/2016      05/04/2016          A tiempo
+
+Codigo profesor: 2181
+Nombre del profesor: MEJIA/DIAZ/BLANCA MILAGROS
+Distrito: San Juan de Miraflores
+Categoria: PRI
+Dedicacion: TPA
+Seccion: Escultura
+Grado academico: Magister
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+08/09/2014      12/09/2014      12/10/2014          Fuera de tiempo
+13/03/2016      17/03/2016      16/04/2016          En atencion
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+09/05/2014      10/05/2014      09/06/2014          A tiempo
+20/04/2015      24/04/2015      24/05/2015          Fuera de tiempo
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+27/08/2016      29/08/2016      28/09/2016          Fuera de tiempo
+09/11/2016      13/11/2016      13/12/2016          En atencion
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+Reservas:
+07/07/2014      10/07/2014      09/08/2014          A tiempo
+15/03/2015      16/03/2015      15/04/2015          A tiempo
+16/09/2015      18/09/2015      18/10/2015          A tiempo
+23/08/2016      24/08/2016      23/09/2016          A tiempo
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+Reservas:
+11/07/2015      15/07/2015      14/08/2015          En atencion
+17/06/2016      21/06/2016      21/07/2016          A tiempo
+08/07/2016      12/07/2016      11/08/2016          En atencion
+
+Codigo profesor: 2489
+Nombre del profesor: HERNANDEZ/BARRIOS/EMILIO
+Distrito: Comas
+Categoria: PRI
+Dedicacion: TPA
+Seccion: Derecho civil
+Grado academico: Doctor
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+Reservas:
+20/01/2014      24/01/2014      23/02/2014          A tiempo
+11/04/2014      14/04/2014      14/05/2014          En atencion
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+Reservas:
+18/02/2014      21/02/2014      23/03/2014          A tiempo
+28/03/2014      31/03/2014      30/04/2014          A tiempo
+03/07/2015      06/07/2015      05/08/2015          En atencion
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+Reservas:
+26/10/2016      30/10/2016      29/11/2016          En atencion
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+Reservas:
+28/02/2015      04/03/2015      03/04/2015          A tiempo
+07/12/2015      09/12/2015      08/01/2016          En atencion
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+Reservas:
+10/08/2016      13/08/2016      12/09/2016          En atencion
+23/08/2016      25/08/2016      24/09/2016          A tiempo
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+Reservas:
+27/03/2014      31/03/2014      30/04/2014          A tiempo
+14/05/2014      17/05/2014      16/06/2014          Fuera de tiempo
+10/02/2016      13/02/2016      14/03/2016          A tiempo
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+Reservas:
+07/09/2015      10/09/2015      10/10/2015          Fuera de tiempo
+970         Suspense                                CORRALES/ZIMIC/JAIME DANIEL        Costa Rica          
+Reservas:
+21/03/2014      22/03/2014      21/04/2014          En atencion
+22/03/2014      23/03/2014      22/04/2014          Fuera de tiempo
+10/05/2015      11/05/2015      10/06/2015          En atencion
+16/05/2016      17/05/2016      16/06/2016          A tiempo
+
+Codigo profesor: 2506
+Nombre del profesor: SANTISTEBAN/MEZA/ROSA
+Distrito: Pachacamac
+Categoria: CON
+Dedicacion: TP
+Seccion: Derecho civil
+Grado academico: Bachiller
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+Reservas:
+30/08/2015      02/09/2015      02/10/2015          Fuera de tiempo
+16/01/2016      19/01/2016      18/02/2016          Fuera de tiempo
+07/05/2016      09/05/2016      08/06/2016          Fuera de tiempo
+04/08/2016      08/08/2016      07/09/2016          A tiempo
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+Reservas:
+13/09/2014      17/09/2014      17/10/2014          Fuera de tiempo
+01/11/2014      02/11/2014      02/12/2014          A tiempo
+08/11/2014      12/11/2014      12/12/2014          Fuera de tiempo
+21/03/2015      23/03/2015      22/04/2015          Fuera de tiempo
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+17/06/2014      18/06/2014      18/07/2014          En atencion
+01/01/2015      03/01/2015      02/02/2015          Fuera de tiempo
+28/02/2015      01/03/2015      31/03/2015          En atencion
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+Reservas:
+05/09/2014      09/09/2014      09/10/2014          Fuera de tiempo
+
+Codigo profesor: 2519
+Nombre del profesor: DELGADO/GONZALES/GUILLERMO ALFONSO
+Distrito: Surquillo
+Categoria: AUX
+Dedicacion: TPA
+Seccion: Derecho civil
+Grado academico: Bachiller
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+02/12/2015      04/12/2015      03/01/2016          En atencion
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+Reservas:
+14/11/2014      17/11/2014      17/12/2014          A tiempo
+26/01/2016      27/01/2016      26/02/2016          A tiempo
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+Reservas:
+14/11/2014      18/11/2014      18/12/2014          A tiempo
+15/03/2015      17/03/2015      16/04/2015          En atencion
+21/06/2015      22/06/2015      22/07/2015          Fuera de tiempo
+26/11/2016      27/11/2016      27/12/2016          A tiempo
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+Reservas:
+17/03/2014      18/03/2014      17/04/2014          Fuera de tiempo
+30/01/2015      03/02/2015      05/03/2015          A tiempo
+25/02/2016      26/02/2016      27/03/2016          Fuera de tiempo
+27/04/2016      29/04/2016      29/05/2016          En atencion
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+Reservas:
+15/05/2015      17/05/2015      16/06/2015          Fuera de tiempo
+26/09/2015      29/09/2015      29/10/2015          A tiempo
+24/01/2016      28/01/2016      27/02/2016          A tiempo
+03/02/2016      07/02/2016      08/03/2016          En atencion
+
+Codigo profesor: 3309
+Nombre del profesor: CERNA/PAIRAZAMAN/FIORELLA MARGOT
+Distrito: Surquillo
+Categoria: AUX
+Dedicacion: TC
+Seccion: Derecho penal
+Grado academico: Doctor
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+Reservas:
+11/10/2015      14/10/2015      13/11/2015          Fuera de tiempo
+29/12/2015      02/01/2016      01/02/2016          En atencion
+21/03/2016      23/03/2016      22/04/2016          En atencion
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+28/08/2014      01/09/2014      01/10/2014          Fuera de tiempo
+01/11/2014      03/11/2014      03/12/2014          A tiempo
+29/04/2015      02/05/2015      01/06/2015          Fuera de tiempo
+24/08/2015      25/08/2015      24/09/2015          Fuera de tiempo
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+Reservas:
+12/03/2014      14/03/2014      13/04/2014          A tiempo
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+Reservas:
+17/07/2014      20/07/2014      19/08/2014          A tiempo
+08/01/2015      10/01/2015      09/02/2015          En atencion
+11/09/2015      14/09/2015      14/10/2015          A tiempo
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+Reservas:
+26/05/2015      30/05/2015      29/06/2015          A tiempo
+25/12/2015      29/12/2015      28/01/2016          A tiempo
+
+Codigo profesor: 3415
+Nombre del profesor: PRADO/FALCON/EDGAR RICHARD
+Distrito: Independencia
+Categoria: CON
+Dedicacion: TP
+Seccion: Informatica
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+Reservas:
+12/04/2014      13/04/2014      13/05/2014          A tiempo
+29/05/2016      31/05/2016      30/06/2016          Fuera de tiempo
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+Reservas:
+12/11/2014      14/11/2014      14/12/2014          En atencion
+04/12/2014      08/12/2014      07/01/2015          A tiempo
+19/10/2015      21/10/2015      20/11/2015          En atencion
+08/05/2016      10/05/2016      09/06/2016          A tiempo
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+Reservas:
+28/04/2014      29/04/2014      29/05/2014          En atencion
+30/12/2014      31/12/2014      30/01/2015          Fuera de tiempo
+30/07/2015      02/08/2015      01/09/2015          A tiempo
+07/09/2016      08/09/2016      08/10/2016          Fuera de tiempo
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+Reservas:
+09/03/2015      10/03/2015      09/04/2015          Fuera de tiempo
+27/05/2015      30/05/2015      29/06/2015          En atencion
+21/09/2016      24/09/2016      24/10/2016          A tiempo
+10/11/2016      11/11/2016      11/12/2016          A tiempo
+
+Codigo profesor: 3442
+Nombre del profesor: CABRERA/LUNA/SHIRLEY ISABEL
+Distrito: San Isidro
+Categoria: ASO
+Dedicacion: TPA
+Seccion: Informatica
+Grado academico: Magister
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+17/11/2014      21/11/2014      21/12/2014          Fuera de tiempo
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+Reservas:
+05/12/2014      07/12/2014      06/01/2015          Fuera de tiempo
+03/03/2015      04/03/2015      03/04/2015          A tiempo
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+Reservas:
+25/01/2016      28/01/2016      27/02/2016          Fuera de tiempo
+05/02/2016      07/02/2016      08/03/2016          A tiempo
+08/05/2016      10/05/2016      09/06/2016          A tiempo
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+Reservas:
+14/01/2014      17/01/2014      16/02/2014          En atencion
+11/05/2014      15/05/2014      14/06/2014          Fuera de tiempo
+16/01/2016      18/01/2016      17/02/2016          A tiempo
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+Reservas:
+19/05/2015      22/05/2015      21/06/2015          A tiempo
+24/10/2015      26/10/2015      25/11/2015          A tiempo
+
+Codigo profesor: 4066
+Nombre del profesor: SHIRAKAWA/ORTEGA/ANGEL
+Distrito: Pueblo Libre
+Categoria: AUX
+Dedicacion: TC
+Seccion: Derecho civil
+Grado academico: Bachiller
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+Reservas:
+28/04/2015      29/04/2015      29/05/2015          Fuera de tiempo
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+Reservas:
+01/04/2014      03/04/2014      03/05/2014          A tiempo
+12/11/2014      14/11/2014      14/12/2014          En atencion
+14/05/2015      15/05/2015      14/06/2015          En atencion
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+14/09/2015      15/09/2015      15/10/2015          A tiempo
+14/03/2016      18/03/2016      17/04/2016          En atencion
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+Reservas:
+12/02/2015      15/02/2015      17/03/2015          En atencion
+26/09/2015      30/09/2015      30/10/2015          Fuera de tiempo
+25/04/2016      29/04/2016      29/05/2016          Fuera de tiempo
+19/05/2016      20/05/2016      19/06/2016          Fuera de tiempo
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+20/01/2014      21/01/2014      20/02/2014          A tiempo
+09/12/2014      11/12/2014      10/01/2015          En atencion
+18/01/2015      20/01/2015      19/02/2015          Fuera de tiempo
+02/07/2016      06/07/2016      05/08/2016          Fuera de tiempo
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+Reservas:
+14/01/2014      18/01/2014      17/02/2014          En atencion
+26/04/2014      28/04/2014      28/05/2014          En atencion
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+Reservas:
+27/06/2014      01/07/2014      31/07/2014          A tiempo
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+Reservas:
+20/12/2014      23/12/2014      22/01/2015          En atencion
+24/02/2015      28/02/2015      30/03/2015          Fuera de tiempo
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+Reservas:
+10/12/2014      11/12/2014      10/01/2015          Fuera de tiempo
+06/06/2015      08/06/2015      08/07/2015          A tiempo
+15/09/2015      16/09/2015      16/10/2015          Fuera de tiempo
+23/06/2016      25/06/2016      25/07/2016          Fuera de tiempo
+
+Codigo profesor: 4113
+Nombre del profesor: RAFFO/CHUNG/ADRIA GLORIA
+Distrito: Villa Maria del Triunfo
+Categoria: PRI
+Dedicacion: TC
+Seccion: Derecho civil
+Grado academico: Magister
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+Reservas:
+22/11/2015      24/11/2015      24/12/2015          En atencion
+17/01/2016      21/01/2016      20/02/2016          A tiempo
+16/06/2016      20/06/2016      20/07/2016          A tiempo
+29/09/2016      30/09/2016      30/10/2016          En atencion
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+03/04/2014      04/04/2014      04/05/2014          En atencion
+18/02/2016      22/02/2016      23/03/2016          A tiempo
+07/05/2016      08/05/2016      07/06/2016          A tiempo
+04/08/2016      05/08/2016      04/09/2016          A tiempo
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+Reservas:
+10/03/2014      14/03/2014      13/04/2014          Fuera de tiempo
+25/03/2014      26/03/2014      25/04/2014          Fuera de tiempo
+05/12/2014      06/12/2014      05/01/2015          Fuera de tiempo
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+Reservas:
+04/11/2014      05/11/2014      05/12/2014          Fuera de tiempo
+01/01/2015      05/01/2015      04/02/2015          Fuera de tiempo
+
+Codigo profesor: 4341
+Nombre del profesor: REYES/TANG/EDWARD
+Distrito: Barranco
+Categoria: ASO
+Dedicacion: TC
+Seccion: Informatica
+Grado academico: Bachiller
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+23/10/2014      25/10/2014      24/11/2014          A tiempo
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+27/07/2016      31/07/2016      30/08/2016          Fuera de tiempo
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+Reservas:
+30/06/2015      01/07/2015      31/07/2015          Fuera de tiempo
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+Reservas:
+17/12/2015      18/12/2015      17/01/2016          A tiempo
+27/04/2016      29/04/2016      29/05/2016          A tiempo
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+Reservas:
+28/06/2015      29/06/2015      29/07/2015          Fuera de tiempo
+08/08/2015      11/08/2015      10/09/2015          Fuera de tiempo
+25/09/2016      29/09/2016      29/10/2016          En atencion
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+Reservas:
+24/09/2016      25/09/2016      25/10/2016          Fuera de tiempo
+
+Codigo profesor: 4399
+Nombre del profesor: DIAZ/CORREA/IRMA VIRGINIA
+Distrito: Carabayllo
+Categoria: AUX
+Dedicacion: TPA
+Seccion: Civil
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+Reservas:
+19/09/2014      20/09/2014      20/10/2014          En atencion
+16/11/2014      17/11/2014      17/12/2014          Fuera de tiempo
+14/04/2015      16/04/2015      16/05/2015          Fuera de tiempo
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+Reservas:
+11/01/2015      15/01/2015      14/02/2015          En atencion
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+Reservas:
+17/01/2016      20/01/2016      19/02/2016          Fuera de tiempo
+28/02/2016      03/03/2016      02/04/2016          A tiempo
+
+Codigo profesor: 5117
+Nombre del profesor: RAFFO/ARIAS/SURAMI ANNIE
+Distrito: Lurin
+Categoria: CON
+Dedicacion: TPA
+Seccion: Derecho civil
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+Reservas:
+08/04/2015      09/04/2015      09/05/2015          En atencion
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+Reservas:
+14/05/2014      18/05/2014      17/06/2014          Fuera de tiempo
+26/05/2014      30/05/2014      29/06/2014          En atencion
+03/01/2015      07/01/2015      06/02/2015          A tiempo
+21/02/2015      25/02/2015      27/03/2015          En atencion
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+Reservas:
+03/02/2014      07/02/2014      09/03/2014          A tiempo
+02/10/2014      04/10/2014      03/11/2014          En atencion
+11/05/2016      15/05/2016      14/06/2016          En atencion
+07/10/2016      09/10/2016      08/11/2016          A tiempo
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+Reservas:
+22/11/2015      24/11/2015      24/12/2015          Fuera de tiempo
+28/08/2016      31/08/2016      30/09/2016          En atencion
+
+Codigo profesor: 5159
+Nombre del profesor: VEGA/GARCIA/JANET REBECA
+Distrito: Barranco
+Categoria: ASO
+Dedicacion: TPA
+Seccion: Pintura
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+26/10/2014      27/10/2014      26/11/2014          Fuera de tiempo
+01/03/2015      04/03/2015      03/04/2015          En atencion
+24/07/2015      28/07/2015      27/08/2015          En atencion
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+Reservas:
+31/12/2014      04/01/2015      03/02/2015          A tiempo
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+Reservas:
+19/01/2015      23/01/2015      22/02/2015          A tiempo
+03/04/2016      04/04/2016      04/05/2016          Fuera de tiempo
+13/11/2016      14/11/2016      14/12/2016          A tiempo
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+Reservas:
+22/03/2016      23/03/2016      22/04/2016          Fuera de tiempo
+23/03/2016      25/03/2016      24/04/2016          Fuera de tiempo
+
+Codigo profesor: 5751
+Nombre del profesor: SALAZAR/CORRALES/LORENA IRMA
+Distrito: San Juan de Lurigancho
+Categoria: ASO
+Dedicacion: TC
+Seccion: Mecanica
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+Reservas:
+22/06/2014      26/06/2014      26/07/2014          En atencion
+21/12/2015      23/12/2015      22/01/2016          En atencion
+22/12/2015      25/12/2015      24/01/2016          A tiempo
+23/02/2016      27/02/2016      28/03/2016          A tiempo
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+Reservas:
+16/02/2016      17/02/2016      18/03/2016          A tiempo
+23/04/2016      24/04/2016      24/05/2016          En atencion
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+Reservas:
+11/05/2015      14/05/2015      13/06/2015          Fuera de tiempo
+25/12/2015      27/12/2015      26/01/2016          En atencion
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+Reservas:
+11/05/2014      12/05/2014      11/06/2014          En atencion
+15/09/2014      16/09/2014      16/10/2014          En atencion
+21/12/2014      22/12/2014      21/01/2015          Fuera de tiempo
+15/10/2015      18/10/2015      17/11/2015          A tiempo
+970         Suspense                                CORRALES/ZIMIC/JAIME DANIEL        Costa Rica          
+Reservas:
+22/08/2016      23/08/2016      22/09/2016          En atencion
+14/09/2016      15/09/2016      15/10/2016          En atencion
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+Reservas:
+24/06/2014      28/06/2014      28/07/2014          Fuera de tiempo
+18/03/2015      19/03/2015      18/04/2015          A tiempo
+27/11/2015      30/11/2015      30/12/2015          A tiempo
+11/05/2016      13/05/2016      12/06/2016          Fuera de tiempo
+
+Codigo profesor: 5882
+Nombre del profesor: CHUNG/LEE/ALVARO
+Distrito: Lurin
+Categoria: ASO
+Dedicacion: TC
+Seccion: Economia
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+23/04/2014      24/04/2014      24/05/2014          Fuera de tiempo
+18/06/2014      20/06/2014      20/07/2014          En atencion
+19/10/2014      23/10/2014      22/11/2014          A tiempo
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+02/02/2014      03/02/2014      05/03/2014          A tiempo
+08/02/2014      11/02/2014      13/03/2014          Fuera de tiempo
+02/09/2014      05/09/2014      05/10/2014          A tiempo
+29/01/2016      02/02/2016      03/03/2016          En atencion
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+Reservas:
+18/08/2015      21/08/2015      20/09/2015          Fuera de tiempo
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+08/02/2015      10/02/2015      12/03/2015          A tiempo
+16/03/2015      19/03/2015      18/04/2015          A tiempo
+30/09/2016      01/10/2016      31/10/2016          A tiempo
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+Reservas:
+07/10/2014      08/10/2014      07/11/2014          Fuera de tiempo
+24/11/2014      26/11/2014      26/12/2014          Fuera de tiempo
+01/09/2016      03/09/2016      03/10/2016          En atencion
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+Reservas:
+28/03/2014      31/03/2014      30/04/2014          Fuera de tiempo
+30/12/2014      03/01/2015      02/02/2015          A tiempo
+05/02/2016      07/02/2016      08/03/2016          En atencion
+04/03/2016      07/03/2016      06/04/2016          A tiempo
+
+Codigo profesor: 6054
+Nombre del profesor: MENDOZA/EGUSQUIZA/ROSARIO
+Distrito: Santa Rosa
+Categoria: ASO
+Dedicacion: TPA
+Seccion: Psicologia
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+Reservas:
+15/03/2014      16/03/2014      15/04/2014          Fuera de tiempo
+22/09/2015      23/09/2015      23/10/2015          En atencion
+
+Codigo profesor: 6113
+Nombre del profesor: SHIRAKAWA/MIRANDA/MADELEINE
+Distrito: Pueblo Libre
+Categoria: CON
+Dedicacion: TC
+Seccion: Derecho penal
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+Reservas:
+19/03/2014      23/03/2014      22/04/2014          En atencion
+15/05/2015      19/05/2015      18/06/2015          A tiempo
+20/02/2016      24/02/2016      25/03/2016          A tiempo
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+09/04/2014      12/04/2014      12/05/2014          A tiempo
+23/10/2016      27/10/2016      26/11/2016          A tiempo
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+Reservas:
+12/02/2014      15/02/2014      17/03/2014          Fuera de tiempo
+03/10/2015      05/10/2015      04/11/2015          En atencion
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+Reservas:
+20/10/2014      22/10/2014      21/11/2014          A tiempo
+02/11/2014      06/11/2014      06/12/2014          Fuera de tiempo
+01/12/2015      05/12/2015      04/01/2016          A tiempo
+08/11/2016      10/11/2016      10/12/2016          A tiempo
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+Reservas:
+04/08/2014      08/08/2014      07/09/2014          A tiempo
+26/10/2015      29/10/2015      28/11/2015          A tiempo
+31/07/2016      03/08/2016      02/09/2016          En atencion
+19/10/2016      22/10/2016      21/11/2016          Fuera de tiempo
+970         Suspense                                CORRALES/ZIMIC/JAIME DANIEL        Costa Rica          
+Reservas:
+23/09/2014      27/09/2014      27/10/2014          En atencion
+17/10/2014      20/10/2014      19/11/2014          En atencion
+24/12/2015      26/12/2015      25/01/2016          A tiempo
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+Reservas:
+27/03/2014      30/03/2014      29/04/2014          A tiempo
+16/07/2014      20/07/2014      19/08/2014          En atencion
+31/08/2014      03/09/2014      03/10/2014          En atencion
+
+Codigo profesor: 6453
+Nombre del profesor: FORZANI/CARO/ALONSO
+Distrito: San Bartolo
+Categoria: CON
+Dedicacion: TPA
+Seccion: Derecho penal
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+Reservas:
+03/04/2015      05/04/2015      05/05/2015          A tiempo
+13/02/2016      15/02/2016      16/03/2016          A tiempo
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+Reservas:
+23/08/2015      26/08/2015      25/09/2015          A tiempo
+23/10/2015      26/10/2015      25/11/2015          En atencion
+10/11/2016      12/11/2016      12/12/2016          A tiempo
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+Reservas:
+25/01/2015      28/01/2015      27/02/2015          A tiempo
+06/04/2015      10/04/2015      10/05/2015          A tiempo
+01/02/2016      03/02/2016      04/03/2016          En atencion
+08/11/2016      11/11/2016      11/12/2016          En atencion
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+Reservas:
+03/10/2015      06/10/2015      05/11/2015          Fuera de tiempo
+13/02/2016      15/02/2016      16/03/2016          A tiempo
+17/06/2016      19/06/2016      19/07/2016          A tiempo
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+Reservas:
+24/06/2014      28/06/2014      28/07/2014          Fuera de tiempo
+23/04/2015      25/04/2015      25/05/2015          Fuera de tiempo
+970         Suspense                                CORRALES/ZIMIC/JAIME DANIEL        Costa Rica          
+Reservas:
+16/08/2014      19/08/2014      18/09/2014          A tiempo
+
+Codigo profesor: 6939
+Nombre del profesor: ROMERO/PALOMARES/GLORIA TATIANA
+Distrito: Santiago de Surco
+Categoria: PRI
+Dedicacion: TPA
+Seccion: Derecho civil
+Grado academico: Licenciado
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+Reservas:
+19/02/2014      23/02/2014      25/03/2014          A tiempo
+20/01/2016      23/01/2016      22/02/2016          A tiempo
+22/09/2016      25/09/2016      25/10/2016          En atencion
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+09/05/2016      10/05/2016      09/06/2016          Fuera de tiempo
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+24/10/2014      26/10/2014      25/11/2014          Fuera de tiempo
+11/05/2016      14/05/2016      13/06/2016          A tiempo
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+Reservas:
+16/03/2014      17/03/2014      16/04/2014          Fuera de tiempo
+13/05/2014      16/05/2014      15/06/2014          Fuera de tiempo
+19/11/2016      22/11/2016      22/12/2016          En atencion
+
+Codigo profesor: 7539
+Nombre del profesor: PINTO/CALIXTO/SHIRLEY
+Distrito: Puente Piedra
+Categoria: CON
+Dedicacion: TPA
+Seccion: Derecho civil
+Grado academico: Doctor
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+15/07/2014      17/07/2014      16/08/2014          Fuera de tiempo
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+Reservas:
+19/06/2014      22/06/2014      22/07/2014          Fuera de tiempo
+19/04/2015      21/04/2015      21/05/2015          En atencion
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+Reservas:
+03/02/2014      04/02/2014      06/03/2014          En atencion
+25/10/2014      26/10/2014      25/11/2014          A tiempo
+19/06/2015      23/06/2015      23/07/2015          A tiempo
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+Reservas:
+29/09/2014      01/10/2014      31/10/2014          A tiempo
+22/12/2014      26/12/2014      25/01/2015          A tiempo
+05/01/2015      06/01/2015      05/02/2015          En atencion
+19/08/2015      20/08/2015      19/09/2015          En atencion
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+Reservas:
+23/06/2014      24/06/2014      24/07/2014          Fuera de tiempo
+07/09/2014      08/09/2014      08/10/2014          En atencion
+21/03/2016      25/03/2016      24/04/2016          Fuera de tiempo
+
+Codigo profesor: 7882
+Nombre del profesor: WONG/MARTEL/MADELEINE
+Distrito: Ancon
+Categoria: ASO
+Dedicacion: TPA
+Seccion: Pintura
+Grado academico: Bachiller
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+Reservas:
+22/09/2015      26/09/2015      26/10/2015          A tiempo
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+02/01/2015      03/01/2015      02/02/2015          A tiempo
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+Reservas:
+27/03/2016      28/03/2016      27/04/2016          A tiempo
+11/07/2016      15/07/2016      14/08/2016          A tiempo
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+Reservas:
+01/09/2015      05/09/2015      05/10/2015          Fuera de tiempo
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+Reservas:
+12/05/2015      15/05/2015      14/06/2015          En atencion
+06/06/2016      08/06/2016      08/07/2016          En atencion
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+Reservas:
+08/02/2014      10/02/2014      12/03/2014          Fuera de tiempo
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+Reservas:
+10/03/2014      12/03/2014      11/04/2014          Fuera de tiempo
+17/03/2014      20/03/2014      19/04/2014          A tiempo
+17/12/2014      19/12/2014      18/01/2015          En atencion
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+Reservas:
+07/04/2014      09/04/2014      09/05/2014          Fuera de tiempo
+18/11/2014      20/11/2014      20/12/2014          En atencion
+18/06/2016      20/06/2016      20/07/2016          En atencion
+23/10/2016      25/10/2016      24/11/2016          Fuera de tiempo
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+Reservas:
+07/11/2016      11/11/2016      11/12/2016          A tiempo
+
+Codigo profesor: 8246
+Nombre del profesor: CERNA/HIJAR/JOSE ROLANDO
+Distrito: San Bartolo
+Categoria: ASO
+Dedicacion: TP
+Seccion: Civil
+Grado academico: Bachiller
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+Reservas:
+11/08/2016      13/08/2016      12/09/2016          Fuera de tiempo
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+10/06/2015      11/06/2015      11/07/2015          A tiempo
+03/03/2016      05/03/2016      04/04/2016          En atencion
+24/08/2016      25/08/2016      24/09/2016          A tiempo
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+Reservas:
+07/04/2016      09/04/2016      09/05/2016          En atencion
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+Reservas:
+24/11/2015      28/11/2015      28/12/2015          Fuera de tiempo
+
+Codigo profesor: 8791
+Nombre del profesor: DIAZ/ANTEZANO/MAGALI SILVANA
+Distrito: Ate
+Categoria: PRI
+Dedicacion: TPA
+Seccion: Economia
+Grado academico: Bachiller
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+Reservas:
+11/08/2014      12/08/2014      11/09/2014          En atencion
+28/10/2014      31/10/2014      30/11/2014          En atencion
+04/02/2015      05/02/2015      07/03/2015          En atencion
+29/05/2016      31/05/2016      30/06/2016          A tiempo
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+10/12/2014      13/12/2014      12/01/2015          En atencion
+05/01/2016      06/01/2016      05/02/2016          A tiempo
+01/07/2016      02/07/2016      01/08/2016          A tiempo
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+Reservas:
+01/07/2014      05/07/2014      04/08/2014          A tiempo
+22/06/2015      24/06/2015      24/07/2015          Fuera de tiempo
+04/10/2015      07/10/2015      06/11/2015          En atencion
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+Reservas:
+02/04/2014      03/04/2014      03/05/2014          A tiempo
+17/06/2014      19/06/2014      19/07/2014          Fuera de tiempo
+02/09/2016      05/09/2016      05/10/2016          Fuera de tiempo
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+Reservas:
+16/04/2014      19/04/2014      19/05/2014          A tiempo
+08/06/2015      12/06/2015      12/07/2015          A tiempo
+28/09/2015      30/09/2015      30/10/2015          Fuera de tiempo
+24/12/2015      25/12/2015      24/01/2016          En atencion
+
+Codigo profesor: 9248
+Nombre del profesor: CHUMPITAZ/IBEROS/RONAL
+Distrito: Santa Rosa
+Categoria: PRI
+Dedicacion: TC
+Seccion: Mecanica
+Grado academico: Magister
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+Reservas:
+27/03/2015      31/03/2015      30/04/2015          A tiempo
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+Reservas:
+25/06/2014      28/06/2014      28/07/2014          En atencion
+03/11/2016      04/11/2016      04/12/2016          A tiempo
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+12/06/2016      13/06/2016      13/07/2016          A tiempo
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+Reservas:
+12/07/2015      14/07/2015      13/08/2015          Fuera de tiempo
+11/09/2016      12/09/2016      12/10/2016          En atencion
+23/10/2016      27/10/2016      26/11/2016          En atencion
+05/11/2016      08/11/2016      08/12/2016          Fuera de tiempo
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+Reservas:
+07/07/2014      11/07/2014      10/08/2014          A tiempo
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+Reservas:
+10/07/2014      14/07/2014      13/08/2014          En atencion
+31/03/2015      04/04/2015      04/05/2015          En atencion
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+Reservas:
+01/01/2015      02/01/2015      01/02/2015          A tiempo
+22/07/2015      26/07/2015      25/08/2015          En atencion
+
+Codigo profesor: 9570
+Nombre del profesor: PEREZ/FARFAN/RICHARD SANDRO
+Distrito: San Miguel
+Categoria: ASO
+Dedicacion: TP
+Seccion: Psicologia
+Grado academico: Magister
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+07/02/2015      09/02/2015      11/03/2015          En atencion
+09/03/2015      12/03/2015      11/04/2015          A tiempo
+12/06/2015      14/06/2015      14/07/2015          En atencion
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+Reservas:
+16/09/2015      17/09/2015      17/10/2015          A tiempo
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+Reservas:
+17/07/2014      20/07/2014      19/08/2014          En atencion
+15/10/2014      18/10/2014      17/11/2014          En atencion
+28/10/2015      29/10/2015      28/11/2015          Fuera de tiempo
+27/05/2016      29/05/2016      28/06/2016          En atencion
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+Reservas:
+18/03/2014      22/03/2014      21/04/2014          Fuera de tiempo
+17/10/2014      19/10/2014      18/11/2014          En atencion
+
+Codigo alumno: 17572
+Nombre del alumno: PRADO/VERGEL/CARLOS JULIAN
+Distrito: Santa Rosa
+Escala de pago: 5
+Especialidad: Ing. Informatica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+Reservas:
+21/01/2015      22/01/2015      29/01/2015          En atencion
+11/04/2015      12/04/2015      19/04/2015          Fuera de tiempo
+18/06/2016      22/06/2016      29/06/2016          Fuera de tiempo
+08/09/2016      12/09/2016      19/09/2016          En atencion
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+23/03/2014      24/03/2014      31/03/2014          A tiempo
+30/04/2014      02/05/2014      09/05/2014          A tiempo
+19/11/2016      21/11/2016      28/11/2016          En atencion
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+21/03/2014      23/03/2014      30/03/2014          En atencion
+21/10/2014      22/10/2014      29/10/2014          En atencion
+28/11/2014      02/12/2014      09/12/2014          Fuera de tiempo
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+Reservas:
+20/11/2014      22/11/2014      29/11/2014          A tiempo
+05/03/2015      09/03/2015      16/03/2015          Fuera de tiempo
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+Reservas:
+30/04/2015      02/05/2015      09/05/2015          Fuera de tiempo
+15/05/2015      18/05/2015      25/05/2015          Fuera de tiempo
+26/10/2015      27/10/2015      03/11/2015          A tiempo
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+Reservas:
+21/01/2014      25/01/2014      01/02/2014          Fuera de tiempo
+01/11/2014      04/11/2014      11/11/2014          Fuera de tiempo
+18/12/2014      20/12/2014      27/12/2014          En atencion
+24/06/2016      27/06/2016      04/07/2016          Fuera de tiempo
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+07/08/2015      09/08/2015      16/08/2015          A tiempo
+
+Codigo alumno: 22048
+Nombre del alumno: CERNA/DURAND/MARTIN
+Distrito: Lurigancho-Chosica
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+Reservas:
+05/01/2015      06/01/2015      13/01/2015          A tiempo
+26/05/2015      27/05/2015      03/06/2015          A tiempo
+16/09/2015      19/09/2015      26/09/2015          Fuera de tiempo
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+Reservas:
+19/10/2014      20/10/2014      27/10/2014          En atencion
+04/12/2015      08/12/2015      15/12/2015          A tiempo
+01/01/2016      05/01/2016      12/01/2016          A tiempo
+09/06/2016      12/06/2016      19/06/2016          En atencion
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+Reservas:
+04/04/2014      07/04/2014      14/04/2014          En atencion
+03/07/2014      07/07/2014      14/07/2014          Fuera de tiempo
+20/02/2015      21/02/2015      28/02/2015          A tiempo
+19/11/2016      20/11/2016      27/11/2016          En atencion
+
+Codigo alumno: 23387
+Nombre del alumno: PALOMARES/VERA/HENRRY HUMBERTO
+Distrito: Santiago de Surco
+Escala de pago: 2
+Especialidad: Ing. Civil
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+Reservas:
+17/08/2014      19/08/2014      26/08/2014          Fuera de tiempo
+17/11/2016      18/11/2016      25/11/2016          En atencion
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+27/12/2015      29/12/2015      05/01/2016          A tiempo
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+Reservas:
+17/09/2014      20/09/2014      27/09/2014          A tiempo
+24/09/2015      26/09/2015      03/10/2015          En atencion
+12/12/2015      15/12/2015      22/12/2015          En atencion
+29/02/2016      03/03/2016      10/03/2016          A tiempo
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+12/05/2015      16/05/2015      23/05/2015          En atencion
+14/09/2015      18/09/2015      25/09/2015          En atencion
+31/07/2016      01/08/2016      08/08/2016          En atencion
+13/10/2016      15/10/2016      22/10/2016          En atencion
+
+Codigo alumno: 23604
+Nombre del alumno: VELASQUEZ/HUAYANAY/EDGARD HENRY
+Distrito: Independencia
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+Reservas:
+27/10/2014      30/10/2014      06/11/2014          A tiempo
+24/02/2016      25/02/2016      03/03/2016          Fuera de tiempo
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+Reservas:
+05/10/2014      09/10/2014      16/10/2014          Fuera de tiempo
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+Reservas:
+16/02/2015      19/02/2015      26/02/2015          Fuera de tiempo
+
+Codigo alumno: 23822
+Nombre del alumno: LANDA/PISCOYA/CHRISTIAN
+Distrito: Santa Maria del Mar
+Escala de pago: 5
+Especialidad: Ing. Informatica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+29/05/2014      31/05/2014      07/06/2014          En atencion
+22/07/2016      25/07/2016      01/08/2016          Fuera de tiempo
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+Reservas:
+12/01/2015      15/01/2015      22/01/2015          Fuera de tiempo
+26/02/2015      27/02/2015      06/03/2015          En atencion
+27/07/2015      29/07/2015      05/08/2015          En atencion
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+Reservas:
+07/05/2016      10/05/2016      17/05/2016          A tiempo
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+Reservas:
+16/11/2016      18/11/2016      25/11/2016          A tiempo
+
+Codigo alumno: 26685
+Nombre del alumno: LANDEO/SUELDO/ADOLFO
+Distrito: Cieneguilla
+Escala de pago: 2
+Especialidad: Ing. Civil
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+Reservas:
+18/08/2015      20/08/2015      27/08/2015          Fuera de tiempo
+01/09/2016      04/09/2016      11/09/2016          En atencion
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+04/03/2016      07/03/2016      14/03/2016          Fuera de tiempo
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+Reservas:
+26/04/2014      28/04/2014      05/05/2014          En atencion
+25/02/2015      26/02/2015      05/03/2015          En atencion
+28/05/2015      29/05/2015      05/06/2015          Fuera de tiempo
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+Reservas:
+17/11/2014      20/11/2014      27/11/2014          A tiempo
+12/02/2015      16/02/2015      23/02/2015          Fuera de tiempo
+29/09/2015      30/09/2015      07/10/2015          A tiempo
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+Reservas:
+24/12/2015      28/12/2015      04/01/2016          A tiempo
+17/06/2016      19/06/2016      26/06/2016          Fuera de tiempo
+21/06/2016      25/06/2016      02/07/2016          Fuera de tiempo
+
+Codigo alumno: 32123
+Nombre del alumno: JUSTINO/CRUZ/WILLIAMS
+Distrito: Lince
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+Reservas:
+06/04/2014      09/04/2014      16/04/2014          A tiempo
+18/05/2014      19/05/2014      26/05/2014          A tiempo
+06/07/2014      10/07/2014      17/07/2014          A tiempo
+19/05/2016      22/05/2016      29/05/2016          Fuera de tiempo
+
+Codigo alumno: 36466
+Nombre del alumno: SALAS/AGUERO/DANIEL
+Distrito: Santa Rosa
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+Reservas:
+29/03/2016      31/03/2016      07/04/2016          En atencion
+04/07/2016      07/07/2016      14/07/2016          Fuera de tiempo
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+Reservas:
+17/12/2014      19/12/2014      26/12/2014          Fuera de tiempo
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+27/08/2015      29/08/2015      05/09/2015          Fuera de tiempo
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+Reservas:
+31/05/2014      04/06/2014      11/06/2014          En atencion
+21/08/2014      22/08/2014      29/08/2014          En atencion
+18/08/2015      22/08/2015      29/08/2015          Fuera de tiempo
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+Reservas:
+13/04/2015      14/04/2015      21/04/2015          Fuera de tiempo
+01/10/2016      03/10/2016      10/10/2016          A tiempo
+11/11/2016      15/11/2016      22/11/2016          En atencion
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+Reservas:
+28/06/2016      30/06/2016      07/07/2016          En atencion
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+Reservas:
+16/11/2014      19/11/2014      26/11/2014          A tiempo
+10/12/2014      13/12/2014      20/12/2014          En atencion
+
+Codigo alumno: 40825
+Nombre del alumno: LAURA/WONG/MELVIN HENRRY
+Distrito: Santa Rosa
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+Reservas:
+01/06/2015      03/06/2015      10/06/2015          Fuera de tiempo
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+Reservas:
+06/06/2014      09/06/2014      16/06/2014          Fuera de tiempo
+15/10/2014      19/10/2014      26/10/2014          A tiempo
+29/12/2015      01/01/2016      08/01/2016          Fuera de tiempo
+30/09/2016      04/10/2016      11/10/2016          A tiempo
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+Reservas:
+01/04/2014      03/04/2014      10/04/2014          A tiempo
+08/09/2014      12/09/2014      19/09/2014          Fuera de tiempo
+31/03/2015      04/04/2015      11/04/2015          En atencion
+18/04/2015      20/04/2015      27/04/2015          Fuera de tiempo
+
+Codigo alumno: 41668
+Nombre del alumno: PAREDES/PATINO/CHRISTIAN
+Distrito: San Miguel
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+Reservas:
+06/05/2015      10/05/2015      17/05/2015          Fuera de tiempo
+21/09/2015      24/09/2015      01/10/2015          En atencion
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+Reservas:
+30/06/2014      02/07/2014      09/07/2014          En atencion
+22/03/2015      25/03/2015      01/04/2015          A tiempo
+
+Codigo alumno: 44573
+Nombre del alumno: INGA/FLORES/CESAR ADOLFO
+Distrito: Chorrillos
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+27/09/2014      28/09/2014      05/10/2014          Fuera de tiempo
+08/04/2015      09/04/2015      16/04/2015          A tiempo
+09/12/2015      10/12/2015      17/12/2015          A tiempo
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+Reservas:
+01/12/2014      02/12/2014      09/12/2014          En atencion
+01/04/2015      02/04/2015      09/04/2015          A tiempo
+06/09/2015      09/09/2015      16/09/2015          Fuera de tiempo
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+10/03/2015      14/03/2015      21/03/2015          Fuera de tiempo
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+Reservas:
+30/11/2014      03/12/2014      10/12/2014          Fuera de tiempo
+03/12/2014      04/12/2014      11/12/2014          A tiempo
+22/12/2014      24/12/2014      31/12/2014          En atencion
+18/09/2016      19/09/2016      26/09/2016          En atencion
+
+Codigo alumno: 49619
+Nombre del alumno: PORTUGAL/BENAVENTE/JOHANA GLORIA
+Distrito: San Juan de Lurigancho
+Escala de pago: 5
+Especialidad: Ing. Informatica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+02/12/2015      04/12/2015      11/12/2015          A tiempo
+20/01/2016      24/01/2016      31/01/2016          Fuera de tiempo
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+Reservas:
+03/03/2016      04/03/2016      11/03/2016          A tiempo
+458         Historia de Mayta                       WONG/GALLO/JANET MADELEINE         EEUU                
+Reservas:
+17/02/2014      18/02/2014      25/02/2014          En atencion
+25/09/2016      27/09/2016      04/10/2016          Fuera de tiempo
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+Reservas:
+15/05/2014      18/05/2014      25/05/2014          Fuera de tiempo
+31/05/2014      03/06/2014      10/06/2014          A tiempo
+08/10/2014      10/10/2014      17/10/2014          A tiempo
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+Reservas:
+10/09/2014      12/09/2014      19/09/2014          Fuera de tiempo
+21/12/2015      22/12/2015      29/12/2015          A tiempo
+11/06/2016      12/06/2016      19/06/2016          En atencion
+
+Codigo alumno: 50139
+Nombre del alumno: CORREA/VIZCARDO/MIGUEL
+Distrito: Punta Hermosa
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+Reservas:
+24/01/2015      25/01/2015      01/02/2015          En atencion
+29/09/2015      30/09/2015      07/10/2015          En atencion
+21/03/2016      25/03/2016      01/04/2016          Fuera de tiempo
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+Reservas:
+15/03/2016      17/03/2016      24/03/2016          Fuera de tiempo
+08/08/2016      10/08/2016      17/08/2016          En atencion
+
+Codigo alumno: 52106
+Nombre del alumno: MEJIA/HAZA/FRANCISCO EDGAR
+Distrito: Pueblo Libre
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+Reservas:
+25/07/2015      26/07/2015      02/08/2015          En atencion
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+Reservas:
+26/04/2016      29/04/2016      06/05/2016          En atencion
+
+Codigo alumno: 52680
+Nombre del alumno: CORRALES/TSUKAZAN/IRMA LOURDES
+Distrito: Independencia
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+27/03/2014      28/03/2014      04/04/2014          Fuera de tiempo
+02/09/2015      06/09/2015      13/09/2015          A tiempo
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+23/11/2014      25/11/2014      02/12/2014          En atencion
+06/01/2016      09/01/2016      16/01/2016          En atencion
+09/01/2016      12/01/2016      19/01/2016          A tiempo
+07/11/2016      08/11/2016      15/11/2016          A tiempo
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+Reservas:
+04/10/2014      07/10/2014      14/10/2014          A tiempo
+
+Codigo alumno: 55472
+Nombre del alumno: MEDINA/VELASQUEZ/MILENA JENNY
+Distrito: San Juan de Miraflores
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+27/10/2014      29/10/2014      05/11/2014          A tiempo
+25/01/2015      28/01/2015      04/02/2015          Fuera de tiempo
+08/04/2015      10/04/2015      17/04/2015          A tiempo
+28/02/2016      01/03/2016      08/03/2016          En atencion
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+Reservas:
+14/12/2014      15/12/2014      22/12/2014          Fuera de tiempo
+15/08/2015      19/08/2015      26/08/2015          En atencion
+28/12/2015      29/12/2015      05/01/2016          Fuera de tiempo
+
+Codigo alumno: 59519
+Nombre del alumno: MORALES/VALVERDE/INES MARTHA
+Distrito: Lurigancho-Chosica
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+02/07/2015      05/07/2015      12/07/2015          A tiempo
+05/04/2016      06/04/2016      13/04/2016          A tiempo
+22/07/2016      25/07/2016      01/08/2016          En atencion
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+Reservas:
+14/09/2015      17/09/2015      24/09/2015          En atencion
+14/12/2015      16/12/2015      23/12/2015          Fuera de tiempo
+11/05/2016      12/05/2016      19/05/2016          En atencion
+30/07/2016      31/07/2016      07/08/2016          Fuera de tiempo
+
+Codigo alumno: 62100
+Nombre del alumno: MIYAKE/MEREL/MADELEINE YLIANA
+Distrito: Jesus Maria
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+Reservas:
+16/12/2014      17/12/2014      24/12/2014          En atencion
+10/11/2016      11/11/2016      18/11/2016          Fuera de tiempo
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+01/02/2014      05/02/2014      12/02/2014          Fuera de tiempo
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+12/04/2015      16/04/2015      23/04/2015          A tiempo
+
+Codigo alumno: 66377
+Nombre del alumno: CORONEL/CHUMPITAZ/HELI
+Distrito: Jesus Maria
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+Reservas:
+28/05/2014      31/05/2014      07/06/2014          En atencion
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+Reservas:
+22/10/2014      26/10/2014      02/11/2014          Fuera de tiempo
+10/03/2016      13/03/2016      20/03/2016          A tiempo
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+29/05/2014      02/06/2014      09/06/2014          En atencion
+28/12/2015      30/12/2015      06/01/2016          A tiempo
+09/03/2016      12/03/2016      19/03/2016          En atencion
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+Reservas:
+16/05/2014      20/05/2014      27/05/2014          A tiempo
+08/06/2014      09/06/2014      16/06/2014          En atencion
+07/01/2015      11/01/2015      18/01/2015          En atencion
+27/03/2015      31/03/2015      07/04/2015          En atencion
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+Reservas:
+25/06/2014      27/06/2014      04/07/2014          A tiempo
+04/10/2014      07/10/2014      14/10/2014          A tiempo
+13/12/2015      17/12/2015      24/12/2015          En atencion
+
+Codigo alumno: 67560
+Nombre del alumno: CAMACHO/AGUERO/ELIA ROSA
+Distrito: El Agustino
+Escala de pago: 2
+Especialidad: Ing. Civil
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+Reservas:
+22/12/2014      24/12/2014      31/12/2014          A tiempo
+12/09/2015      16/09/2015      23/09/2015          En atencion
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+Reservas:
+16/03/2015      17/03/2015      24/03/2015          A tiempo
+
+Codigo alumno: 69791
+Nombre del alumno: CARO/POLO/SANDRO
+Distrito: Los Olivos
+Escala de pago: 5
+Especialidad: Ing. Informatica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+28/10/2014      31/10/2014      07/11/2014          A tiempo
+18/12/2014      19/12/2014      26/12/2014          A tiempo
+09/12/2015      11/12/2015      18/12/2015          A tiempo
+06/10/2016      07/10/2016      14/10/2016          Fuera de tiempo
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+Reservas:
+06/11/2014      08/11/2014      15/11/2014          A tiempo
+25/11/2014      29/11/2014      06/12/2014          A tiempo
+03/11/2016      04/11/2016      11/11/2016          Fuera de tiempo
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+Reservas:
+22/09/2014      23/09/2014      30/09/2014          A tiempo
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+Reservas:
+13/05/2014      15/05/2014      22/05/2014          En atencion
+10/06/2014      13/06/2014      20/06/2014          A tiempo
+18/10/2015      22/10/2015      29/10/2015          En atencion
+19/12/2015      21/12/2015      28/12/2015          En atencion
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+Reservas:
+16/05/2014      20/05/2014      27/05/2014          A tiempo
+29/06/2014      03/07/2014      10/07/2014          En atencion
+07/04/2015      11/04/2015      18/04/2015          En atencion
+
+Codigo alumno: 74926
+Nombre del alumno: HENRIQUEZ/ESPINO/BEATRIZ
+Distrito: Lince
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+461         Le Cousin Pons                          PRADO/PAREDES/JUAN                 Costa Rica          
+Reservas:
+26/05/2014      27/05/2014      03/06/2014          Fuera de tiempo
+30/07/2015      31/07/2015      07/08/2015          Fuera de tiempo
+24/03/2016      27/03/2016      03/04/2016          En atencion
+20/11/2016      23/11/2016      30/11/2016          Fuera de tiempo
+
+Codigo alumno: 77257
+Nombre del alumno: PASQUEL/QUIO/SURAMI JANET
+Distrito: Cieneguilla
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+08/01/2015      11/01/2015      18/01/2015          En atencion
+22/08/2016      24/08/2016      31/08/2016          Fuera de tiempo
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+Reservas:
+19/09/2014      22/09/2014      29/09/2014          A tiempo
+07/04/2015      10/04/2015      17/04/2015          En atencion
+30/08/2016      02/09/2016      09/09/2016          A tiempo
+480         El Manuscrito del Domino                LARRIEGA/ARCA/ISABEL MADELEINE     EEUU                
+Reservas:
+13/09/2014      15/09/2014      22/09/2014          En atencion
+12/10/2015      14/10/2015      21/10/2015          En atencion
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+Reservas:
+26/03/2014      28/03/2014      04/04/2014          A tiempo
+27/03/2014      31/03/2014      07/04/2014          En atencion
+
+Codigo alumno: 78376
+Nombre del alumno: BENAVENTE/AYALA/VIRGINIA IRMA
+Distrito: Santa Anita
+Escala de pago: 2
+Especialidad: Ing. Civil
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+14/07/2014      15/07/2014      22/07/2014          Fuera de tiempo
+25/04/2015      28/04/2015      05/05/2015          En atencion
+02/01/2016      05/01/2016      12/01/2016          Fuera de tiempo
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+Reservas:
+25/02/2014      26/02/2014      05/03/2014          En atencion
+30/03/2015      02/04/2015      09/04/2015          Fuera de tiempo
+11/10/2015      14/10/2015      21/10/2015          En atencion
+01/07/2016      02/07/2016      09/07/2016          En atencion
+545         El Club de los explotadores             TAVERA/CORREA/FERNANDO             Portugal            
+Reservas:
+06/02/2014      08/02/2014      15/02/2014          A tiempo
+03/10/2014      04/10/2014      11/10/2014          Fuera de tiempo
+29/05/2015      31/05/2015      07/06/2015          A tiempo
+09/01/2016      12/01/2016      19/01/2016          Fuera de tiempo
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+Reservas:
+27/06/2014      29/06/2014      06/07/2014          Fuera de tiempo
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+Reservas:
+09/03/2014      10/03/2014      17/03/2014          A tiempo
+25/10/2014      27/10/2014      03/11/2014          Fuera de tiempo
+15/02/2016      16/02/2016      23/02/2016          En atencion
+08/06/2016      12/06/2016      19/06/2016          Fuera de tiempo
+
+Codigo alumno: 79138
+Nombre del alumno: AQUINO/TORO/VALENTINA ROCIO
+Distrito: Santa Maria del Mar
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+Reservas:
+10/06/2014      12/06/2014      19/06/2014          Fuera de tiempo
+04/06/2016      05/06/2016      12/06/2016          Fuera de tiempo
+09/07/2016      13/07/2016      20/07/2016          A tiempo
+26/07/2016      27/07/2016      03/08/2016          A tiempo
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+Reservas:
+26/02/2015      27/02/2015      06/03/2015          Fuera de tiempo
+
+Codigo alumno: 81789
+Nombre del alumno: VILLA/YALLICO/TATIANA NANCY
+Distrito: San Martin de Porres
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+17/01/2016      20/01/2016      27/01/2016          Fuera de tiempo
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+Reservas:
+21/07/2014      24/07/2014      31/07/2014          A tiempo
+02/09/2014      06/09/2014      13/09/2014          A tiempo
+08/03/2015      09/03/2015      16/03/2015          En atencion
+24/12/2015      25/12/2015      01/01/2016          En atencion
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+Reservas:
+25/07/2015      28/07/2015      04/08/2015          En atencion
+02/10/2015      06/10/2015      13/10/2015          Fuera de tiempo
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+Reservas:
+14/11/2014      18/11/2014      25/11/2014          Fuera de tiempo
+
+Codigo alumno: 83179
+Nombre del alumno: CABRERA/CANALES/GUILLERMO EDRIC
+Distrito: Ate
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+14/03/2014      16/03/2014      23/03/2014          Fuera de tiempo
+20/01/2015      24/01/2015      31/01/2015          En atencion
+02/06/2015      04/06/2015      11/06/2015          A tiempo
+21/01/2016      22/01/2016      29/01/2016          A tiempo
+
+Codigo alumno: 89341
+Nombre del alumno: ARCA/AMEZQUITA/EDRIC RONALD
+Distrito: Santa Rosa
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+Reservas:
+27/07/2015      28/07/2015      04/08/2015          A tiempo
+23/07/2016      24/07/2016      31/07/2016          Fuera de tiempo
+15/09/2016      16/09/2016      23/09/2016          En atencion
+04/10/2016      08/10/2016      15/10/2016          En atencion
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+Reservas:
+08/01/2015      11/01/2015      18/01/2015          En atencion
+05/09/2015      06/09/2015      13/09/2015          En atencion
+
+Codigo alumno: 90775
+Nombre del alumno: PAIRAZAMAN/ALAMO/MOISES MIGUEL
+Distrito: Independencia
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+124         Las demoliciones de Paris               NORABUENA/PAIRAZAMAN/JULIAN        Francia             
+Reservas:
+01/09/2016      03/09/2016      10/09/2016          Fuera de tiempo
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+08/12/2014      10/12/2014      17/12/2014          A tiempo
+04/12/2015      05/12/2015      12/12/2015          Fuera de tiempo
+17/05/2016      20/05/2016      27/05/2016          Fuera de tiempo
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+Reservas:
+21/06/2014      24/06/2014      01/07/2014          A tiempo
+26/12/2014      30/12/2014      06/01/2015          Fuera de tiempo
+18/12/2015      20/12/2015      27/12/2015          Fuera de tiempo
+04/11/2016      06/11/2016      13/11/2016          Fuera de tiempo
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+Reservas:
+02/08/2014      06/08/2014      13/08/2014          En atencion
+18/10/2015      22/10/2015      29/10/2015          En atencion
+31/03/2016      03/04/2016      10/04/2016          En atencion
+
+Codigo alumno: 92419
+Nombre del alumno: LOZADA/YINO/MARTHA
+Distrito: San Isidro
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+897         L ecole des menages                     MALDONADO/CORREA/LUCERO CAROLA     EEUU                
+Reservas:
+14/05/2014      16/05/2014      23/05/2014          A tiempo
+29/03/2015      30/03/2015      06/04/2015          A tiempo
+26/04/2015      28/04/2015      05/05/2015          Fuera de tiempo
+24/07/2016      28/07/2016      04/08/2016          En atencion
+
+Codigo alumno: 97172
+Nombre del alumno: JUSTINO/FORZANI/ERICKA VICTORIA
+Distrito: Pueblo Libre
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+263         La Cousine Bette                        ZIMIC/PAREDES/SHIRLEY              Costa Rica          
+Reservas:
+19/08/2016      20/08/2016      27/08/2016          Fuera de tiempo
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+28/08/2014      29/08/2014      05/09/2014          A tiempo
+499         Le Colonel Chabert                      FARFAN/RARAZ/WALDEMAR              Peru                
+Reservas:
+21/12/2014      24/12/2014      31/12/2014          En atencion
+29/12/2014      31/12/2014      07/01/2015          Fuera de tiempo
+30/10/2015      02/11/2015      09/11/2015          En atencion
+06/03/2016      07/03/2016      14/03/2016          En atencion
+
+Codigo alumno: 98008
+Nombre del alumno: FERNANDEZ/ORTEGA/ELIZABETH ELIZABETH
+Distrito: Cieneguilla
+Escala de pago: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+Reservas:
+02/03/2014      05/03/2014      12/03/2014          A tiempo
+26/04/2015      29/04/2015      06/05/2015          Fuera de tiempo
+19/07/2015      23/07/2015      30/07/2015          Fuera de tiempo
+837         The Countess de Charny                  JAUREGUI/AGUERO/HECTOR HENRY       Peru                
+Reservas:
+02/03/2014      03/03/2014      10/03/2014          Fuera de tiempo
+27/09/2015      28/09/2015      05/10/2015          En atencion
+02/11/2015      06/11/2015      13/11/2015          A tiempo
+11/12/2015      14/12/2015      21/12/2015          En atencion
+
+Codigo alumno: 98202
+Nombre del alumno: VASQUEZ/PAZ/ALEX MARTIN
+Distrito: Lurin
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+Reservas:
+17/05/2014      21/05/2014      28/05/2014          A tiempo
+06/04/2015      09/04/2015      16/04/2015          En atencion
+224         Elogio de la madrastra                  CASANOVA/CHUMPITAZ/ALONSO          Portugal            
+Reservas:
+22/05/2015      24/05/2015      31/05/2015          En atencion
+24/05/2015      28/05/2015      04/06/2015          A tiempo
+15/06/2015      19/06/2015      26/06/2015          A tiempo
+274         Musica para camaleones                  MIRANDA/LARRIEGA/JUVENAL NESTOR    EEUU                
+Reservas:
+27/07/2016      30/07/2016      06/08/2016          Fuera de tiempo
+324         Le Chef doeuvre inconnu                 MALCA/SAAVEDRA/DORIS MILAGROS      Peru                
+Reservas:
+21/05/2014      23/05/2014      30/05/2014          Fuera de tiempo
+11/06/2016      14/06/2016      21/06/2016          En atencion
+16/09/2016      19/09/2016      26/09/2016          En atencion
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+Reservas:
+29/04/2014      30/04/2014      07/05/2014          A tiempo
+12/12/2014      15/12/2014      22/12/2014          En atencion
+30/06/2015      04/07/2015      11/07/2015          Fuera de tiempo
+28/05/2016      31/05/2016      07/06/2016          Fuera de tiempo
+970         Suspense                                CORRALES/ZIMIC/JAIME DANIEL        Costa Rica          
+Reservas:
+19/04/2016      22/04/2016      29/04/2016          A tiempo
+21/04/2016      24/04/2016      01/05/2016          A tiempo
+979         Una Navidad                             CABRERA/AGUERO/JESSICA             EEUU                
+Reservas:
+03/04/2015      07/04/2015      14/04/2015          Fuera de tiempo
+16/06/2015      19/06/2015      26/06/2015          Fuera de tiempo
+
+Codigo alumno: 98828
+Nombre del alumno: NORABUENA/PRECIADO/CINTHIA
+Distrito: Santa Rosa
+Escala de pago: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+158         House of Pomegranates                   DEL/POZO/ISABEL JUGO               Peru                
+Reservas:
+02/04/2014      03/04/2014      10/04/2014          En atencion
+13/11/2015      14/11/2015      21/11/2015          A tiempo
+225         La hermosa jardinera                    CUBA/NARVAEZ/PAUL JOHN             EEUU                
+Reservas:
+15/10/2014      19/10/2014      26/10/2014          En atencion
+26/09/2015      27/09/2015      04/10/2015          En atencion
+12/12/2015      13/12/2015      20/12/2015          Fuera de tiempo
+19/08/2016      21/08/2016      28/08/2016          A tiempo
+456         La Peau de chagrin                      GONZALES/VELASQUEZ/WALTER          Francia             
+Reservas:
+28/03/2015      01/04/2015      08/04/2015          A tiempo
+14/10/2015      16/10/2015      23/10/2015          Fuera de tiempo
+06/03/2016      07/03/2016      14/03/2016          En atencion
+688         El Duque en su territorio               MAEIREIZO/VASQUEZ/LOURDES SILVIA   EEUU                
+Reservas:
+23/01/2016      25/01/2016      01/02/2016          A tiempo
+27/03/2016      29/03/2016      05/04/2016          En atencion
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+Reservas:
+29/05/2015      02/06/2015      09/06/2015          Fuera de tiempo
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+Reservas:
+29/05/2014      01/06/2014      08/06/2014          A tiempo
+
+Codigo alumno: 99050
+Nombre del alumno: AURIS/ZIMIC/JAVIER DANIEL
+Distrito: Chaclacayo
+Escala de pago: 1
+Especialidad: Ing. Civil
+Facultad: FCI
+Libros solicitados:
+Codigo      Titulo                                  Autor                              Pais de origen      
+798         An Ideal Husband                        SOMA/INGA/DIALY                    Francia             
+Reservas:
+14/02/2014      15/02/2014      22/02/2014          En atencion
+28/08/2015      29/08/2015      05/09/2015          Fuera de tiempo
+13/11/2015      14/11/2015      21/11/2015          A tiempo
+21/04/2016      22/04/2016      29/04/2016          Fuera de tiempo
+833         The Nutcracker                          ESCALANTE/RARAZ/BLANCA             Peru                
+Reservas:
+04/08/2014      06/08/2014      13/08/2014          Fuera de tiempo
+28/03/2015      31/03/2015      07/04/2015          En atencion
+16/06/2016      20/06/2016      27/06/2016          En atencion
+
